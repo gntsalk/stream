@@ -1,4 +1,4 @@
-Salk's Gaki Stream Playlist (as of Nov. 01 2019)
+Salk's Gaki Stream Playlist (as of Nov. 22 2019)
 .
 ├── 1989
 │   └── 1989-10-03 - Gaki no Tsukai Introduction #1.mp4
@@ -39,6 +39,7 @@ Salk's Gaki Stream Playlist (as of Nov. 01 2019)
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Bravery Challenge 1.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Bravery Challenge 2.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Broken Heart.webm
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Car Musical Chairs.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Cathy Tsukamoto.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Christmas Eve.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Clackity-Clack.mp4
@@ -205,6 +206,7 @@ Salk's Gaki Stream Playlist (as of Nov. 01 2019)
 │   ├── 2001-00-00 - Manzai Collection 3.mp4
 │   ├── 2001-00-00 - Manzai Collection 4.mp4
 │   ├── 2001-00-00 - Manzai Collection 5.mp4
+│   ├── 2001-00-00 - Matsumoto Got Stuck In His Own Parking Lot.mp4
 │   ├── 2001-03-08 - Goodbye Yamasaki 2001 #553.mp4
 │   ├── 2001-03-11 - Kiki Bread #552.avi
 │   ├── 2001-05-20 - Gorenjai #561.avi
@@ -433,6 +435,7 @@ Salk's Gaki Stream Playlist (as of Nov. 01 2019)
 │   ├── 2012-08-26 - Kiki Mizu Yokan #1119.mkv
 │   ├── 2012-10-14_01 - Absolutely Tasty Cooking I Wanted To Try #1126.mp4
 │   ├── 2012-10-14_02 - Absolutely Tasty Cooking I Wanted To Try #1126.mp4
+│   ├── 2012-10-28 - Rola's Punishment for Tanaka #1128.mp4
 │   ├── 2012-11-18 - LEGO Team Battle #1131.mkv
 │   ├── 2012-12-09 - Kiki Castella #1134.mp4
 │   └── 2012-12-31 - No Laughing Enthusiastic Teachers.mkv
@@ -529,6 +532,7 @@ Salk's Gaki Stream Playlist (as of Nov. 01 2019)
 │   ├── 2016-09-04 - Look Sharp and Hold It! The 30-Minute Endurance Drive #1320.mp4
 │   ├── 2016-10-02 - Hamada's 3rd Cram School #1324.mp4
 │   ├── 2016-10-14 - Kiki Melonpan #1326.mp4
+│   ├── 2016-11-09 - [Wednesday Downtown] Complete.mp4
 │   ├── 2016-11-13 - Jungle Pocket Saito Shichi Henge #1330.mp4
 │   ├── 2016-12-31_01 - No Laughing Science Lab.mp4
 │   ├── 2016-12-31_02 - No Laughing Science Lab.mp4
@@ -547,6 +551,7 @@ Salk's Gaki Stream Playlist (as of Nov. 01 2019)
 │   ├── 2017-04-01 - [Matsumoto Ke] - Matsumoto Tries Boxing excerpt.mp4
 │   ├── 2017-04-30 - Sudden Outburst of Laughter Tour #1353.mp4
 │   ├── 2017-05-14 - IKKO's Men Calendar Part 1 Tanaka Excerpt #1355.mp4
+│   ├── 2017-05-31 - [Wednesday Downtown] Complete.mp4
 │   ├── 2017-06-07 - [Wednesday Downtown] Complete.mp4
 │   ├── 2017-06-25 - No reaction Competition Part 1 #1361.mp4
 │   ├── 2017-07-02 - No Reaction Competition Part 2 #1362.mp4
@@ -569,6 +574,7 @@ Salk's Gaki Stream Playlist (as of Nov. 01 2019)
 ├── 2018
 │   ├── 2018-02-00 - [Matsumoto ke] Matsumoto Acupuncture Excerpt.mp4
 │   ├── 2018-02-04 - [Matsumoto ke] Matsumoto's First Friend.mp4
+│   ├── 2018-02-21 - [Wednesday Downtown] Complete.mp4
 │   ├── 2018-02-25 - Goodbye Tsukitei Housei #1394.mp4
 │   ├── 2018-02-28 - [Wednesday Downtown] Complete.mp4
 │   ├── 2018-03-04 - Board Game Meet-Up #1395.mp4
@@ -619,4 +625,4 @@ Salk's Gaki Stream Playlist (as of Nov. 01 2019)
     ├── 2019-04-21 - Bluetooth Costume Talk excerpt #1452.mp4
     └── 2019-06-02 - Bikkuri Donkey Part 1 #1458.mp4
 
-31 directories, 587 files
+31 directories, 593 files
