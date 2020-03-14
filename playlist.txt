@@ -1,4 +1,4 @@
-Salk's Gaki Stream Playlist (as of Nov. 22 2019)
+Salk's Gaki Stream Playlist (as of Feb. 17 2020)
 .
 ├── 1989
 │   └── 1989-10-03 - Gaki no Tsukai Introduction #1.mp4
@@ -19,7 +19,6 @@ Salk's Gaki Stream Playlist (as of Nov. 22 2019)
 ├── 1993
 │   ├── 1993-00-00 - The Challenge 119 - Reverse Games.mkv
 │   ├── 1993-00-00 - The Challenge 138 - Giant Coin Drop.mp4
-│   ├── 1993-00-00 - [Gottsu Ee Kanji] - The Real Ponkikiki Returns.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] 2nd District Band - It's 4 o'clock.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] 5 Rangers Episode 01.avi
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] 5 Rangers Episode 02.avi
@@ -34,15 +33,23 @@ Salk's Gaki Stream Playlist (as of Nov. 22 2019)
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] 5 Rangers Episode 11.avi
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] 5 Rangers Episode 12.avi
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] 5 Rangers Episode 13.avi
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Action Star (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Actress.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Africa (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Aghh.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Aikata Ga Hidoi 1 (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Aikata Ga Hidoi 2 (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Aikata Ga Hidoi 3 (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Bravery Challenge 1.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Bravery Challenge 2.webm
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Bravery Challenge 3.mkv
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Broken Heart.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Car Musical Chairs.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Cathy Tsukamoto.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Christmas Eve.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Cinderella (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Clackity-Clack.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Cold (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Coming Soon.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Disaster.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Dream.webm
@@ -56,20 +63,41 @@ Salk's Gaki Stream Playlist (as of Nov. 22 2019)
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Female Gang Fight 6.mkv
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Fist of the North Star 1.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Fist of the North Star 2.webm
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Fitting Room (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Flooded Family (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Giant Man.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Hamadas Rampage Lion Prank.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Indy 1 (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Indy 3 (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Is That Alright (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Journey.webm
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Just Four More (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Kendo Strikes (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Kozure Ookami (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Lifeguard (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Ma-kun Bike (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Ma-kun Fever (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Ma-kun Napping 2 (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Manner.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Maria-Chan.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Maze.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Mercedes-Venz (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Mermaid.webm
-│   ├── 1993-00-00 - [Gottsu Ee Kanji] Mr. Customer.mp4
-│   ├── 1993-00-00 - [Gottsu Ee Kanji] NBA.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Miss Erotica (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Mitsuru-san 1 (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Mitsuru-san 2 (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Mitsuru-san 3 (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Mr Bater Doctor Visit (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Mr Bater Pharmacy (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Mr Bater Umbrella (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] N.B.A. Honkon (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] N.B.A. Imada-Ryoko.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] N.B.A. You (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Nandaro-kun 1.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Nandaro-kun 2.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Nasty 1.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Nasty.webm
-│   ├── 1993-00-00 - [Gottsu Ee Kanji] Noise Complaint 1.webm
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Noise Complaint 1 (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Noise Complaint 2.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Noise Complaint 3.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Office Worker Tour.mp4
@@ -77,22 +105,30 @@ Salk's Gaki Stream Playlist (as of Nov. 22 2019)
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Orange.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Oversleeping.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Rock Band.mp4
-│   ├── 1993-00-00 - [Gottsu Ee Kanji] Rouge 1.webm
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Rouge 1.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Rouge 2.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Salary Man Ride.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Salesperson.webm
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Sallinger (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Secret Talk.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Stop It.webm
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Sukima Otoko Stuck Between Walls (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Sukima Otoko Stuck in Hose (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Sukima Otoko Vending Machine (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Surgery High School Scary Story 2.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Surgery.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Telephone Shocking.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] The Disliked.webm
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] The Friendly Ghost 1.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] The Friendly Ghost 2.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] The Invisible Man.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] The Ladies of Kyogoku Family (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] The Mouth of Truth.webm
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] The Real Ponkikiki Returns.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] The Secret.mp4
-│   ├── 1993-00-00 - [Gottsu Ee Kanji] The friendly ghost 1.mp4
-│   ├── 1993-00-00 - [Gottsu Ee Kanji] The friendly ghost 2.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Toll Booth (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Under Construction.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Under the Stars (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Unlucky 1.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Unlucky 2.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Whats Happening To You Quiz 1.mp4
@@ -100,6 +136,7 @@ Salk's Gaki Stream Playlist (as of Nov. 22 2019)
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Whats Happening To You Quiz 3.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Why.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Yoshiko-chan.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Your dog is Loose (HD).mp4
 │   ├── 1993-00-00 - [Unknown] Team Zero Manzai.mp4
 │   ├── 1993-01-31 - Yamasaki Kendo #164.avi
 │   ├── 1993-04-04 - Car Crash Totem Pole #173.mp4
@@ -145,7 +182,8 @@ Salk's Gaki Stream Playlist (as of Nov. 22 2019)
 │   ├── 1996-05-12 - Matsumoto vs Hamada 100 Challenges 2 #321.avi
 │   ├── 1996-06-09 - Shichihenge Producer Nakamura #325.mp4
 │   ├── 1996-07-28 - Genkai Limit 1 Ice Coffee #331.mp4
-│   └── 1996-08-18 - Yama Chan ass magic #334.mp4
+│   ├── 1996-08-18 - Yama Chan ass magic #334.mp4
+│   └── 1996-12-29 - What If We Were Not Comedians Talk #350.mp4
 ├── 1997
 │   ├── 1997-00-00 - Downtown Talk Self Defense Fun.mp4
 │   ├── 1997-03-16 - Matsumoto vs Hamada 100 Challenges 3 #361.avi
@@ -300,10 +338,11 @@ Salk's Gaki Stream Playlist (as of Nov. 22 2019)
 │   ├── 2006-02-26 - Hamada Unthinkable Trial 3 #795.mkv
 │   ├── 2006-03-12 - Absolutely Tasty Takoyaki #797.avi
 │   ├── 2006-03-31 - [Hamachan To] Gackt.flv
-│   ├── 2006-04-00_01 - [Suberanai Hanashi] - Suberanai Hanashi 5.mp4
+│   ├── 2006-04-00_01 - [Suberanai Hanashi] Suberanai Hanashi 5.mp4
 │   ├── 2006-04-00_02 - [Suberanai Hanashi] More Suberanai Hanashi.mp4
 │   ├── 2006-04-00_03 - [Suberanai Hanashi] Even More Suberanai Hanashi.mp4
 │   ├── 2006-04-00_04 - [Suberanai Hanashi] Preliminary Round.mp4
+│   ├── 2006-04-00_05 - [Suberanai Hanashi] Gackt tells a story.mp4
 │   ├── 2006-04-02 - Shichi Henge Football Hour Goto #799.avi
 │   ├── 2006-04-16 - Heipo's Date #801.mp4
 │   ├── 2006-04-23 - Shouhei auditions to become a regular #802.mp4
@@ -348,7 +387,7 @@ Salk's Gaki Stream Playlist (as of Nov. 22 2019)
 │   ├── 2008-03-30 - Kiki Tonkatsu Sauce #898.mp4
 │   ├── 2008-04-00 - [Yurusenai Hanashi] Yurusenai Hanashi 1.mp4
 │   ├── 2008-04-00 - [Yurusenai Hanashi] Yurusenai Hanashi 2.mp4
-│   ├── 2008-04-15 - [Lincoln] Stealthy appearance in �200�Rookies�200� #105.mp4
+│   ├── 2008-04-15 - [Lincoln] Stealthy appearance in "Rookies" #105.mp4
 │   ├── 2008-04-20 - Shouhei auditions to become a regular again #900.mp4
 │   ├── 2008-06-29 - Matsumoto Technician Hip-Shaking Match #910.mp4
 │   ├── 2008-06-29_01 - Ittsuji Shopping #910.mp4
@@ -363,6 +402,9 @@ Salk's Gaki Stream Playlist (as of Nov. 22 2019)
 │   ├── 2008-12-31_01 - No Laughing Newspaper Agency.avi
 │   └── 2008-12-31_02 - No Laughing Newspaper Agency.avi
 ├── 2009
+│   ├── 2009-00-00 - [Yama-Block] Dumbing Down 2014-05-09.mkv
+│   ├── 2009-00-00 - [Yama-Block] Hosei Rambling Story.mkv
+│   ├── 2009-00-00 - [Yama-Block] Ho�204sei Meets Fan Toda Erika.mp4
 │   ├── 2009-02-01 - Itao Presents Don't Get Aroused #940.mkv
 │   ├── 2009-02-15 - Pie Hell World Record #942.avi
 │   ├── 2009-02-15 - Tetsuo Waraimeshi Shichi Henge.mp4
@@ -384,6 +426,7 @@ Salk's Gaki Stream Playlist (as of Nov. 22 2019)
 │   ├── 2010-03-14 - Food marathon Takoyaki #996.mp4
 │   ├── 2010-04-04 - Goodbye Yamazaki 10 #999.mkv
 │   ├── 2010-04-18 - Absolutely Tasty Nukazuke #1001.mp4
+│   ├── 2010-06-06 - Hamada Airhead Trial 1 #1008.mp4
 │   ├── 2010-07-25 - Kiki Jam #1014.mp4
 │   ├── 2010-10-24 - Murakami Class Ninja ft Girolamo #1027.mp4
 │   ├── 2010-10-31 - Beach Ghost Story - Hamada Is Watching #1028.mkv
@@ -465,7 +508,6 @@ Salk's Gaki Stream Playlist (as of Nov. 22 2019)
 │   ├── 2014-01-05 - No Laughing EDF Extra Footage Excerpt #1186.ass
 │   ├── 2014-01-05 - No Laughing EDF Extra Footage Excerpt #1186.mp4
 │   ├── 2014-01-19 - I think that you like this #1188.mkv
-│   ├── 2014-02-00 - [Unknown] Hosei Rambling Story.mkv
 │   ├── 2014-02-02 - Cooking Gyoza Excerpt #1190.mp4
 │   ├── 2014-02-23 - Negativity Prohibited! Cold Tour #1193.mkv
 │   ├── 2014-03-16 - Tsukitei Hosei Long Interview Part 1 #1196.mp4
@@ -499,6 +541,7 @@ Salk's Gaki Stream Playlist (as of Nov. 22 2019)
 │   ├── 2015-07-12 - Hamadas trip to Enoshima #1263.mp4
 │   ├── 2015-08-23 - Strongest Space Robot Wars #1269.mp4
 │   ├── 2015-08-30 - Kiki Anpan #1270.mp4
+│   ├── 2015-09-20 - Members try riding a hoverboard #1273.mp4
 │   ├── 2015-10-04 - 2nd Endo plays Mori Shinichi #1275.mp4
 │   ├── 2015-12-31_01 - No Laughing Detective Agency.mp4
 │   ├── 2015-12-31_02 - No Laughing Detective Agency.mp4
@@ -524,7 +567,8 @@ Salk's Gaki Stream Playlist (as of Nov. 22 2019)
 │   ├── 2016-05-27 - [Knight Scoop] Matsumoto Hitoshi Stuck Cups.mp4
 │   ├── 2016-06-05 - 6th Silent Library 1 #1308.mp4
 │   ├── 2016-06-12 - 6th Silent Library 2 #1309.mp4
-│   ├── 2016-07-06 -  [Wednesday Downtown] Complete.mp4
+│   ├── 2016-07-06 - [Wednesday Downtown] Complete.mp4
+│   ├── 2016-07-13 - [Wednesday Downtown] Complete.mp4
 │   ├── 2016-07-31 - Costume Talk - Letter reading #1315.mp4
 │   ├── 2016-08-07 - Absolutely Tasty Okonomiyaki 1 #1316.mp4
 │   ├── 2016-08-14 - Absolutely Tasty Okonomiyaki 2 #1317.mp4
@@ -572,12 +616,14 @@ Salk's Gaki Stream Playlist (as of Nov. 22 2019)
 │   ├── 2017-12-31_09 - No Laughing American Police.mp4
 │   └── 2017-12-31_10 - No Laughing American Police.mp4
 ├── 2018
+│   ├── 2018-02-00 - [Matsumoto Ke] The Ieshima Crab Adventure 1.mp4
 │   ├── 2018-02-00 - [Matsumoto ke] Matsumoto Acupuncture Excerpt.mp4
 │   ├── 2018-02-04 - [Matsumoto ke] Matsumoto's First Friend.mp4
 │   ├── 2018-02-21 - [Wednesday Downtown] Complete.mp4
 │   ├── 2018-02-25 - Goodbye Tsukitei Housei #1394.mp4
 │   ├── 2018-02-28 - [Wednesday Downtown] Complete.mp4
 │   ├── 2018-03-04 - Board Game Meet-Up #1395.mp4
+│   ├── 2018-03-07 - [Wednesday Downtown] You're Gonna Sing It Theory.mp4
 │   ├── 2018-04-22 - Ask the Best 3 in a Strange Town Part 1 #1402.mp4
 │   ├── 2018-04-22 - [Matsumoto ke] Mom Got Taken Away.mp4
 │   ├── 2018-04-40 - 2018-06-13 - [Wednesday Downtown] Hontou Dokkiri.mp4
@@ -612,17 +658,22 @@ Salk's Gaki Stream Playlist (as of Nov. 22 2019)
 │   ├── 2018-12-31_08 - No Laughing Treasure Hunters.mp4
 │   ├── 2018-12-31_09 - No Laughing Treasure Hunters.mp4
 │   └── 2018-12-31_10 - No Laughing Treasure Hunters.mp4
-└── 2019
-    ├── 2019-01-00 - [Downtown DX] Hamada's suspicious way of talking backstage.mp4
-    ├── 2019-01-09 - [Wednesday Downtown] - Panel Theories Special.mp4
-    ├── 2019-01-20 - Kiki Frozen Fried Rice #1439.mp4
-    ├── 2019-02-24 - 10-Men Nagabuchi Tsuyoshi's Tonbo (Dragonfly) Singing Challenge #1444.mp4
-    ├── 2019-03-10 - Luggage Improv #1446.mp4
-    ├── 2019-03-31 - Silent Library 11.mp4
-    ├── 2019-04-00 - [Downtown Now] Downtown hang out with young duo, Kaminari, and talk about who you can tsukkomi.mp4
-    ├── 2019-04-00 - [Downtown Now] You're already drunk clips.mp4
-    ├── 2019-04-19 - [Downtown Now] If Downtown Were Music Excerpt.mp4
-    ├── 2019-04-21 - Bluetooth Costume Talk excerpt #1452.mp4
-    └── 2019-06-02 - Bikkuri Donkey Part 1 #1458.mp4
+├── 2019
+│   ├── 2019-01-00 - [Downtown DX] Habits.mp4
+│   ├── 2019-01-00 - [Downtown DX] Hamada's suspicious way of talking backstage.mp4
+│   ├── 2019-01-09 - [Wednesday Downtown] - Panel Theories Special.mp4
+│   ├── 2019-01-20 - Kiki Frozen Fried Rice #1439.mp4
+│   ├── 2019-02-24 - 10-Men Nagabuchi Tsuyoshi's Tonbo (Dragonfly) Singing Challenge #1444.mp4
+│   ├── 2019-03-10 - Luggage Improv #1446.mp4
+│   ├── 2019-03-31 - Silent Library 11.mp4
+│   ├── 2019-04-00 - [Downtown Now] Downtown hang out with young duo, Kaminari, and talk about who you can tsukkomi.mp4
+│   ├── 2019-04-00 - [Downtown Now] You're already drunk clips.mp4
+│   ├── 2019-04-19 - [Downtown Now] If Downtown Were Music Excerpt.mp4
+│   ├── 2019-04-21 - Bluetooth Costume Talk excerpt #1452.mp4
+│   ├── 2019-06-02 - Bikkuri Donkey Part 1 #1458.mp4
+│   ├── 2019-06-30 - 4th Board Game Meet-Up Part 1 #1462 .mp4
+│   └── 2019-07-07 - 4th Board Game Meet-Up Part 2 #1463.mp4
+└── 2020
+    └── 2020-02-02 - Heipo Thai-Kicks Tanaka!.mp4
 
-31 directories, 593 files
+32 directories, 643 files
