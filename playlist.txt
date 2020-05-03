@@ -1,5 +1,7 @@
-Salk's Gaki Stream Playlist (as of Feb. 17 2020)
+Salk's Gaki Stream Playlist (as of Apr. 8 2020)
 .
+├── 1988
+│   └── 1988-00-00 - [Yoji Desu Yo�\204da] 2nd District Band - It's 4 o'clock.mp4
 ├── 1989
 │   └── 1989-10-03 - Gaki no Tsukai Introduction #1.mp4
 ├── 1990
@@ -19,7 +21,6 @@ Salk's Gaki Stream Playlist (as of Feb. 17 2020)
 ├── 1993
 │   ├── 1993-00-00 - The Challenge 119 - Reverse Games.mkv
 │   ├── 1993-00-00 - The Challenge 138 - Giant Coin Drop.mp4
-│   ├── 1993-00-00 - [Gottsu Ee Kanji] 2nd District Band - It's 4 o'clock.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] 5 Rangers Episode 01.avi
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] 5 Rangers Episode 02.avi
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] 5 Rangers Episode 03.avi
@@ -100,7 +101,6 @@ Salk's Gaki Stream Playlist (as of Feb. 17 2020)
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Noise Complaint 1 (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Noise Complaint 2.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Noise Complaint 3.mp4
-│   ├── 1993-00-00 - [Gottsu Ee Kanji] Office Worker Tour.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Operation.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Orange.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Oversleeping.webm
@@ -404,7 +404,7 @@ Salk's Gaki Stream Playlist (as of Feb. 17 2020)
 ├── 2009
 │   ├── 2009-00-00 - [Yama-Block] Dumbing Down 2014-05-09.mkv
 │   ├── 2009-00-00 - [Yama-Block] Hosei Rambling Story.mkv
-│   ├── 2009-00-00 - [Yama-Block] Ho�204sei Meets Fan Toda Erika.mp4
+│   ├── 2009-00-00 - [Yama-Block] Ho�\204sei Meets Fan Toda Erika.mp4
 │   ├── 2009-02-01 - Itao Presents Don't Get Aroused #940.mkv
 │   ├── 2009-02-15 - Pie Hell World Record #942.avi
 │   ├── 2009-02-15 - Tetsuo Waraimeshi Shichi Henge.mp4
@@ -671,9 +671,10 @@ Salk's Gaki Stream Playlist (as of Feb. 17 2020)
 │   ├── 2019-04-19 - [Downtown Now] If Downtown Were Music Excerpt.mp4
 │   ├── 2019-04-21 - Bluetooth Costume Talk excerpt #1452.mp4
 │   ├── 2019-06-02 - Bikkuri Donkey Part 1 #1458.mp4
-│   ├── 2019-06-30 - 4th Board Game Meet-Up Part 1 #1462 .mp4
+│   ├── 2019-06-30 - 4th Board Game Meet-Up Part 1 #1462.mp4
 │   └── 2019-07-07 - 4th Board Game Meet-Up Part 2 #1463.mp4
 └── 2020
-    └── 2020-02-02 - Heipo Thai-Kicks Tanaka!.mp4
+    ├── 2020-02-02 - Heipo Thai-Kicks Tanaka!.mp4
+    └── 2020-04-05 - 12th Silent Library #1500.m4v
 
-32 directories, 643 files
+33 directories, 643 files
