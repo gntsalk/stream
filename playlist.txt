@@ -1,4 +1,4 @@
-Salk's Gaki Stream Playlist (as of May. 6 2020)
+Salk's Gaki Stream Playlist (as of July 16 2020)
 .
 ├── 1988
 │   └── 1988-00-00 - [Yoji Desu Youda] 2nd District Band - It's 4 o'clock.mp4
@@ -42,6 +42,8 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Aikata Ga Hidoi 1 (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Aikata Ga Hidoi 2 (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Aikata Ga Hidoi 3 (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Arrived.mkv
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Bo-chan.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Bravery Challenge 1.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Bravery Challenge 2.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Bravery Challenge 3.mkv
@@ -74,11 +76,13 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Heart Break.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] High School Scary Story 1.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] High School Scary Story 2.mp4
-│   ├── 1993-00-00 - [Gottsu Ee Kanji] Huh?.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Huh.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Indy 1 (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Indy 3 (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Inu.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Is That Alright (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Journey.webm
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Judgment Compilation.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Just Four More (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Kendo Strikes (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Kozure Ookami (HD).mp4
@@ -102,6 +106,7 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] N.B.A. Honkon (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] N.B.A. Imada-Ryoko.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] N.B.A. You (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Nandaro-Kun 3.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Nandaro-kun 1.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Nandaro-kun 2.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Nasty 1.webm
@@ -120,12 +125,14 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Salesperson.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Sallinger (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Secret Talk.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Shouta.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Stop It.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Sukima Otoko Stuck Between Walls (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Sukima Otoko Stuck in Hose (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Sukima Otoko Vending Machine (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Surgery.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Suspense Theatre - Murder at the Mansion.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Tanlong.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Telephone Shocking.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] The Disliked.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] The Friendly Ghost 1.mp4
@@ -135,6 +142,7 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] The Mouth of Truth.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] The Real Ponkikiki Returns.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] The Secret.mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] The Selection of Funny Banchos.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] The Worst 1.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] The Worst 2.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Toll Booth (HD).mp4
@@ -159,17 +167,19 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 ├── 1994
 │   └── 1994-10-02 - Wall of Boxes #115.avi
 ├── 1995
-│   ├── 1995-00-00 - Team Fight #41 Rocky Roller Game.mp4
-│   ├── 1995-00-00 - The Team Fight #02 Barrel_Rolling.flv
-│   ├── 1995-00-00 - The Team Fight #03 Boulder Stop.avi
-│   ├── 1995-00-00 - The Team Fight #04 Boots Battle.avi
-│   ├── 1995-00-00 - The Team Fight #05 Push Pull.avi
-│   ├── 1995-00-00 - The Team Fight #10 Spin and Pose!.mp4
-│   ├── 1995-00-00 - The Team Fight #12 Seesaw.mp4
-│   ├── 1995-00-00 - The Team Fight #18 Shin Shinai.avi
-│   ├── 1995-00-00 - The Team Fight #36 Balloon Man Blaster.mp4
-│   ├── 1995-00-00 - The Team Fight Dodge Ball Special.flv
-│   ├── 1995-00-00 - The Team Fight Dodge Giant Sumo Special.avi
+│   ├── 1995-00-00 - [The Team Fight] #02 Barrel_Rolling.flv
+│   ├── 1995-00-00 - [The Team Fight] #03 Boulder Stop.avi
+│   ├── 1995-00-00 - [The Team Fight] #04 Boots Battle.avi
+│   ├── 1995-00-00 - [The Team Fight] #05 Push Pull.avi
+│   ├── 1995-00-00 - [The Team Fight] #09 Withstand The Ball Typhoon.mp4
+│   ├── 1995-00-00 - [The Team Fight] #10 Spin and Pose!.mp4
+│   ├── 1995-00-00 - [The Team Fight] #12 Seesaw.mp4
+│   ├── 1995-00-00 - [The Team Fight] #18 Shin Shinai.avi
+│   ├── 1995-00-00 - [The Team Fight] #36 Balloon Man Blaster.mp4
+│   ├── 1995-00-00 - [The Team Fight] #41 Rocky Roller Game.mp4
+│   ├── 1995-00-00 - [The Team Fight] #45 Suspended Ceiling Crisis.mp4
+│   ├── 1995-00-00 - [The Team Fight] Dodge Ball Special.flv
+│   ├── 1995-00-00 - [The Team Fight] Giant Sumo Special.avi
 │   ├── 1995-01-22 - Yamasaki vs. Jimmy 5 #259.avi
 │   ├── 1995-02-26 - Yamasaki Fired #266.avi
 │   ├── 1995-03-26 - Manager Okamoto Reverse Bungee #268.mp4
@@ -217,7 +227,7 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 ├── 1999
 │   ├── 1999-01-31 - Matsumoto Funeral #450.mp4
 │   ├── 1999-02-07 - Itao Is Watching #451.mkv
-│   ├── 1999-02-21 -Cosplay Bus Tour #2 SM Queens #453.mp4
+│   ├── 1999-02-21 - Cosplay Bus Tour #2 SM Queens #453.mp4
 │   ├── 1999-02-29 - Hide and Go Seek 2 Heipo Tono #454.avi
 │   ├── 1999-03-07 - Hamada's Armageddon Puppet Show #455.webm
 │   ├── 1999-04-08 - Killer Med #459.mp4
@@ -284,6 +294,7 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   └── 2002-11-14_02 - Shichihenge Bob Sapp #635.mp4
 ├── 2003
 │   ├── 2003-02-02 - Kiki Yogurt #644.avi
+│   ├── 2003-02-16 - Matsumoto Gets Angry (Free Talk) #646.mp4
 │   ├── 2003-02-26 - Happy Birthday Yama-Chan #646.avi
 │   ├── 2003-03-30 - Drunk Momotaro Theatre #652.avi
 │   ├── 2003-04-06 - Matsumoto Sports Challenge 5 - Weightlifting #653.mp4
@@ -344,15 +355,26 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2005-10-04_02 - No Laughing High School Unseen Footage.avi
 │   ├── 2005-10-16 - Kiki Yakiniku No Tare #777.avi
 │   ├── 2005-10-30 - Heipo becomes a woman #779.mp4
+│   ├── 2005-11-15 - [Lincoln] Summers Bad Breath Check #5.mp4
+│   ├── 2005-11-29 - [Lincoln] Matsumoto Presents Pie or Kiss #7.mp4
 │   ├── 2005-12-04 - Absolutely Tasty Tempura #784.avi
 │   ├── 2005-12-07 - [Suberanai Hanashi] Suberanai Hanashi 4.mp4
 │   └── 2005-12-08 - [Suberanai Hanashi] Suberanai Hanashi 3, 4 Cut Scenes.mp4
 ├── 2006
 │   ├── 2006-00-00 - Low Budget Opening.mp4
 │   ├── 2006-00-00 - Machan Mom Manzai.avi
+│   ├── 2006-00-00 - [Heyx3] Gackt No Laughing Contest 1.mkv
+│   ├── 2006-00-00 - [Heyx3] Gackt No Laughing Contest 2.mkv
+│   ├── 2006-00-00 - [Heyx3] Gackt No Laughing Contest 3.mkv
+│   ├── 2006-00-00 - [Lincoln] Hamada can't take tomatoes.mkv
+│   ├── 2006-00-00 - [Lincoln] Kansai Dialect Vs Standard Japanese Quiz.mp4
+│   ├── 2006-00-00 - [Lincoln] Let's Speak English! Banana Street.mp4
+│   ├── 2006-00-00 - [Lincoln] Negotiating for Pay.mp4
 │   ├── 2006-01-15_01 - Gaki vs tenso 1 #788.mp4
 │   ├── 2006-01-15_02 - Gaki vs tenso 1 #788.mp4
 │   ├── 2006-02-12 - Hamada Unthinkable Trial 1 #793.mp4
+│   ├── 2006-02-14 - [Lincoln] Amano Presents Test Your Luck on Spa #12.mp4
+│   ├── 2006-02-14 - [Lincoln] Hidden Taxi Miyasako Cut #15 .mp4
 │   ├── 2006-02-19 - Hamada Unthinkable Trial 2 #794.mkv
 │   ├── 2006-02-26 - Hamada Unthinkable Trial 3 #795.mkv
 │   ├── 2006-03-12 - Absolutely Tasty Takoyaki #797.avi
@@ -366,9 +388,12 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2006-04-16 - Heipo's Date #801.mp4
 │   ├── 2006-04-23 - Shouhei auditions to become a regular #802.mp4
 │   ├── 2006-04-30 - Shichi Henge Tenjyourakara #803.flv
+│   ├── 2006-05-02 - [Lincoln] Summers Elevator #023.mp4
 │   ├── 2006-05-14 - Health Presentation #805.mp4
 │   ├── 2006-05-28 - Kiki Milk #807.avi
 │   ├── 2006-06-11 - Yamasaki Produce 2 #0809.mp4
+│   ├── 2006-07-18 - [Lincoln] 1st Midnight Lincoln Radio Baseball Tickets #34.mkv
+│   ├── 2006-08-22 - [Lincoln] Bad-ass Mafia #37.mp4
 │   ├── 2006-08-27 - Matsumoto Technician 1 Bra Removing #820.mkv
 │   ├── 2006-09-10 - Heipo Horror Shichi Henge #822.avi
 │   ├── 2006-09-17 - Murakami Class Ninja #823.avi
@@ -381,33 +406,40 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2006-12-31_01 - No Laughing Police Batsu.avi
 │   └── 2006-12-31_02 - No Laughing Police Batsu.avi
 ├── 2007
+│   ├── 2007-01-16 - [Lincoln] 8th Friendly Downtown - Yoiko #53.mp4
 │   ├── 2007-01-21 - Murakami Class Green Beret #839.avi
 │   ├── 2007-02-04 - Matsumoto Technician 2 Nipple Touching #841.avi
 │   ├── 2007-02-11 - Yama No Ishimatsu 100 Cuts #842.avi
 │   ├── 2007-03-11 - Kiki Oolong Tea #846.avi
 │   ├── 2007-04-01 - Hamada 500 Questions #849.mp4
+│   ├── 2007-04-17 - [Lincoln] 9th Friendly Downtown - Takashi Fuji #63.mkv
 │   ├── 2007-05-06 - Absolutely Tasty Pasta #853.avi
 │   ├── 2007-06-17 - Food Battle vs Galsone #859.mp4
 │   ├── 2007-06-24 - Hamada Sleep Endurance #860.avi
 │   ├── 2007-07-08_01 - Rubix Cube Sauna Battle #862.mp4
 │   ├── 2007-07-08_02 - Downtown Talk #862.mp4
+│   ├── 2007-07-17 - [Lincoln] 10th Friendly Downtown - Jinnai Tomonori #76.mp4
 │   ├── 2007-09-02 - Murakami Class Pilot #869.mkv
 │   ├── 2007-09-04 - [Lincoln] Tsuyoshi meets NERIMOTHA FUCKERZ #81.flv
 │   ├── 2007-10-14 - Yamasaki Aya 500 Questions #874.mp4
 │   ├── 2007-11-25 - Kiki Ponzu #880.avi
+│   ├── 2007-12-11 - [Lincoln] Comedy7 confrontation + Delivery half-pipe #93.mp4
 │   ├── 2007-12-31_01 - No Laughing Hospital.avi
 │   └── 2007-12-31_02 - No Laughing Hospital.avi
 ├── 2008
 │   ├── 2008-00-00 - Silent Library.mp4
+│   ├── 2008-00-00 - [Tanaka-Block] 40 Year Old Comedians Fence Climbing Test.mp4
+│   ├── 2008-00-00 - [Tanaka-Block] Tanaka and Mimura's Sketch.mp4
 │   ├── 2008-02-05_01 - [Lincoln] Sekkyou Sensei, Kojima Yoshio #98.mp4
 │   ├── 2008-02-05_02 - [Lincoln] Sekkyou Sensei, Kojima Yoshio #98.mp4
 │   ├── 2008-02-05_03 - [Lincoln] Sekkyou Sensei, Kojima Yoshio #98.mp4
 │   ├── 2008-02-05_04 - [Lincoln] Sekkyou Sensei, Kojima Yoshio #98.mp4
+│   ├── 2008-02-10 - Eating foods that start with A with rice #891.mp4
 │   ├── 2008-02-19 - [Lincoln] Sekkyou Sensei, Black Mayonnaise #100.mkv
 │   ├── 2008-03-30 - Kiki Tonkatsu Sauce #898.mp4
 │   ├── 2008-04-00 - [Yurusenai Hanashi] Yurusenai Hanashi 1.mp4
 │   ├── 2008-04-00 - [Yurusenai Hanashi] Yurusenai Hanashi 2.mp4
-│   ├── 2008-04-15 - [Lincoln] Stealthy appearance in "Rookies" #105.mp4
+│   ├── 2008-04-15 - [Lincoln] Stealthy appearance in Rookies #105.mp4
 │   ├── 2008-04-20 - Shouhei auditions to become a regular again #900.mp4
 │   ├── 2008-06-29 - Ittsuji Shopping #910.mp4
 │   ├── 2008-07-06 - Matsumoto Technician Hip-Shaking Match #911.mp4
@@ -420,9 +452,12 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2008-12-31_01 - No Laughing Newspaper Agency.avi
 │   └── 2008-12-31_02 - No Laughing Newspaper Agency.avi
 ├── 2009
+│   ├── 2009-00-00 - [Lincoln] Battle of the King of Ramen #132.mkv
+│   ├── 2009-00-00 - [Lincoln] Ootake's 41st Birthday Party Organization #132.mp4
 │   ├── 2009-00-00 - [Yama-Block] Dumbing Down 2014-05-09.mkv
+│   ├── 2009-00-00 - [Yama-Block] Hosei Meets Fan Toda Erika.mp4
 │   ├── 2009-00-00 - [Yama-Block] Hosei Rambling Story.mkv
-│   ├── 2009-00-00 - [Yama-Block] Ho�\204sei Meets Fan Toda Erika.mp4
+│   ├── 2009-00-00 - [Yama-Block] Yamazaki Monomane Death Note.mp4
 │   ├── 2009-02-01 - Itao Presents Don't Get Aroused #940.mkv
 │   ├── 2009-02-15 - Pie Hell World Record #942.avi
 │   ├── 2009-02-15 - Tetsuo Waraimeshi Shichi Henge.mp4
@@ -431,7 +466,10 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2009-04-19 - Endous Chiaki Audition #951.mkv
 │   ├── 2009-05-31 - Shocking Confession Memory Hotel #957.m4v
 │   ├── 2009-06-14 - Surprise Heipo Photos #959.mp4
+│   ├── 2009-07-14 - [Lincoln] Manliness Challenge #160.mp4
+│   ├── 2009-08-11 - [Lincoln] Reclaim Mimura's Tsukkomi Heart #164.mp4
 │   ├── 2009-08-23 - Kiki Ham #969.mp4
+│   ├── 2009-08-25 - [Lincoln] Mimura Helps Ootake with the Baby #166.mp4
 │   ├── 2009-10-04 - The Anguish of Endo Shouzo #977.mp4
 │   ├── 2009-10-25 - Heipo Spirit Camp #977.mkv
 │   ├── 2009-12-13 - Kiki Corn Soup #984.avi
@@ -445,13 +483,16 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2010-04-04 - Goodbye Yamazaki 10 #999.mkv
 │   ├── 2010-04-18 - Absolutely Tasty Nukazuke #1001.mp4
 │   ├── 2010-05-09 - Bananaman Shitara's Shichi-Henge #1004.mp4
+│   ├── 2010-05-11 - [Lincoln] Left Hand Games #193.mp4
 │   ├── 2010-06-06 - Hamada Airhead Trial 1 #1008.mp4
 │   ├── 2010-06-13 - Hamada Airhead Trial Part 2 #1009.mp4
 │   ├── 2010-07-25 - Kiki Jam #1014.mp4
+│   ├── 2010-08-24 - [Lincoln] Impersonation Situation - Miyasako as Shibata Kyohei #206.mp4
 │   ├── 2010-10-24 - Murakami Class Ninja ft Girolamo #1027.mp4
 │   ├── 2010-10-31 - Beach Ghost Story - Hamada Is Watching #1028.mkv
 │   └── 2010-12-31 - No Laughing Spy.avi
 ├── 2011
+│   ├── 2011-01-05 - [Lincoln] 1st No SatNav Race #265.mp4
 │   ├── 2011-01-09 - Spy Unseen Footage #1037.mp4
 │   ├── 2011-02-08 - [Lincoln] Lotion Stairs 1 #221.mp4
 │   ├── 2011-02-15 - [Lincoln] 1st Costume Bus Tour #222.mp4
@@ -462,8 +503,10 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2011-06-19 - Absolutely Tasty Bibimbap #1059.mp4
 │   ├── 2011-06-26 - Yamasaki Pranks Himself #1060.mkv
 │   ├── 2011-07-10 - Make Them Laugh Sumo #1062.mp4
+│   ├── 2011-08-16 - [Lincoln] 1st Midnight Horror Radio #240.mp4
 │   ├── 2011-09-25 - Kiki Potato Chips #1073.mkv
 │   ├── 2011-10-23 - Hamada Quiz Show #1077.mkv
+│   ├── 2011-11-13 - Bare Handed Hell - No Chopstick Battle #1080.mp4
 │   ├── 2011-11-22 - [Lincoln] Lotion Stairs 2 #251.mp4
 │   ├── 2011-12-31_01 - No Laughing Airport.avi
 │   ├── 2011-12-31_02 - No Laughing Airport.avi
@@ -517,6 +560,7 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2013-05-21[14] - [Lincoln] The New Lecturer with Rola, Let's All Start Twitter #303.mp4
 │   ├── 2013-05-26 - Famicom Battle #1156.mkv
 │   ├── 2013-06-16 - Fujiwara's Baby Heipo Care Part 1 #1159.mkv
+│   ├── 2013-06-18 - [Lincoln] Thank You Lincoln #307.mp4
 │   ├── 2013-07-07 - Kiki Fish Sausage #1162.mp4
 │   ├── 2013-08-11 - Matsumoto date with Matsuko at Tokyo Sky Tree #1166.mp4
 │   ├── 2013-09-16 - Negativity Prohibited! Heat Tour #1171.mkv
@@ -529,6 +573,7 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2013-12-31 - No Laughing Earth Defense Force.ass
 │   └── 2013-12-31 - No Laughing Earth Defense Force.mp4
 ├── 2014
+│   ├── 2014-00-00 - [Unknown] Hamada is strict, but he is kind.mp4
 │   ├── 2014-01-05 - No Laughing EDF Extra Footage Excerpt #1186.ass
 │   ├── 2014-01-05 - No Laughing EDF Extra Footage Excerpt #1186.mp4
 │   ├── 2014-01-19 - I think that you like this #1188.mkv
@@ -566,10 +611,13 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2015-07-12 - Hamadas trip to Enoshima #1263.mp4
 │   ├── 2015-07-19 - [Golden Biographies] Cocorico.ass
 │   ├── 2015-07-19 - [Golden Biographies] Cocorico.mp4
+│   ├── 2015-08-09 - World Ghost Stories Summit 2015 #1267.mp4
 │   ├── 2015-08-23 - Strongest Space Robot Wars #1269.mp4
 │   ├── 2015-08-30 - Kiki Anpan #1270.mp4
 │   ├── 2015-09-20 - Members try riding a hoverboard #1273.mp4
 │   ├── 2015-10-04 - 2nd Endo plays Mori Shinichi #1275.mp4
+│   ├── 2015-11-06 - Let's Play Nostalgic Super Famicom Games #1276.mp4
+│   ├── 2015-12-06 - Animal Acting Contest #1283.mp4
 │   ├── 2015-12-31_01 - No Laughing Detective Agency.mp4
 │   ├── 2015-12-31_02 - No Laughing Detective Agency.mp4
 │   ├── 2015-12-31_03 - No Laughing Detective Agency.mp4
@@ -604,6 +652,7 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2016-09-04 - Look Sharp and Hold It! The 30-Minute Endurance Drive #1320.mp4
 │   ├── 2016-10-02 - Hamada's 3rd Cram School #1324.mp4
 │   ├── 2016-10-14 - Kiki Melonpan #1326.mp4
+│   ├── 2016-11-04 - [Downtown Now] Ayabe.mp4
 │   ├── 2016-11-09 - [Wednesday Downtown] Complete.mp4
 │   ├── 2016-11-13 - Jungle Pocket Saito Shichi Henge #1330.mp4
 │   ├── 2016-12-31_01 - No Laughing Science Lab.mp4
@@ -617,21 +666,28 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2016-12-31_09 - No Laughing Science Lab.mp4
 │   └── 2016-12-31_10 - No Laughing Science Lab.mp4
 ├── 2017
+│   ├── 2017-00-00 - [Toriniku] How do you say Cow in English.mp4
+│   ├── 2017-00-00 - [Toriniku] Ketchup, what's it made from.mp4
+│   ├── 2017-00-00 - [Toriniku] What is popcorn made from.mp4
 │   ├── 2017-01-00 - Hamada's Holiday In Guam 1.mp4
-│   ├── 2017-01-00 - Hamada's Holiday In Guam 2.mkv
+│   ├── 2017-01-00 - Hamada's Holiday In Guam 2.mp4
 │   ├── 2017-01-00 - Hamada's Holiday In Guam 3.mp4
 │   ├── 2017-01-00 - Hamada's Holiday In Guam 4.mp4
 │   ├── 2017-01-00 - Hamada's Holiday In Guam 5.mp4
 │   ├── 2017-01-00 - Hamada's Holiday In Guam 6.mp4
 │   ├── 2017-01-00 - [Wednesday Downtown] Falling Oranges.mp4
 │   ├── 2017-01-29 - Mori Masako Karuta Competition #1340.mp4
+│   ├── 2017-02-22 - [Wednesday Downtown] Xmas Presents.mp4
 │   ├── 2017-02-26 - Sunshine Saito Grand Prix #1344.mp4
 │   ├── 2017-03-05 - I think that you like this 9 #1345.mp4
 │   ├── 2017-04-01 - [Matsumoto Ke] - Matsumoto Tries Boxing excerpt.mp4
 │   ├── 2017-04-30 - Sudden Outburst of Laughter Tour #1353.mp4
+│   ├── 2017-05-12 - [Downtown Now] Emoto.mp4
 │   ├── 2017-05-14 - IKKO's Men Calendar Part 1 Tanaka Excerpt #1355.mp4
+│   ├── 2017-05-17 - [Wednesday Downtown] Yaguchi Mari Sexy Beam.mkv
 │   ├── 2017-05-31 - [Wednesday Downtown] Complete.mp4
 │   ├── 2017-06-07 - [Wednesday Downtown] Complete.mp4
+│   ├── 2017-06-09 - [Downtown Now] Yamauchi, Keisuke.mp4
 │   ├── 2017-06-25 - No reaction Competition Part 1 #1361.mp4
 │   ├── 2017-07-02 - No Reaction Competition Part 2 #1362.mp4
 │   ├── 2017-08-20 - Single Father Tanaka's New Marriage Partner Competition #1369.mp4
@@ -651,6 +707,18 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2017-12-31_09 - No Laughing American Police.mp4
 │   └── 2017-12-31_10 - No Laughing American Police.mp4
 ├── 2018
+│   ├── 2018-00-00 - [Wednesday Downtown] Backless Tuxedo 1.mp4
+│   ├── 2018-00-00 - [Wednesday Downtown] Backless Tuxedo 2.mp4
+│   ├── 2018-00-00 - [Wednesday Downtown] Can you follow someone around a zoo, Metal Gear style.mp4
+│   ├── 2018-00-00 - [Wednesday Downtown] Comedy Quiz Matsumoto's Boobs.mp4
+│   ├── 2018-00-00 - [Wednesday Downtown] Do young people know what brass knuckles are.mp4
+│   ├── 2018-00-00 - [Wednesday Downtown] Early Morning Celebrity Relay.mp4
+│   ├── 2018-00-00 - [Wednesday Downtown] Humans vs Homing Pigeons.mp4
+│   ├── 2018-00-00 - [Wednesday Downtown] Kuro Twitter 1 - Lying Tweet Investigation.mp4
+│   ├── 2018-00-00 - [Wednesday Downtown] Kuro Twitter 2 - Future Kuro-Chan.mp4
+│   ├── 2018-00-00 - [Wednesday Downtown] Magician vs Security.mp4
+│   ├── 2018-00-00 - [Wednesday Downtown] Manga Vs Reality.mp4
+│   ├── 2018-00-00 - [Wednesday Downtown] Six Degrees of Matsumoto.mp4
 │   ├── 2018-01-00 - Hamada's Holiday In Hokkaido 1.mp4
 │   ├── 2018-01-00 - Hamada's Holiday In Hokkaido 2.mp4
 │   ├── 2018-01-00 - Hamada's Holiday In Hokkaido 3.mp4
@@ -659,6 +727,7 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2018-01-00 - Hamada's Holiday In Hokkaido 6.mp4
 │   ├── 2018-01-00 - Hamada's Holiday In Hokkaido 7.mp4
 │   ├── 2018-01-17 - [Wednesday Downtown] Complete.mp4
+│   ├── 2018-01-26 - [Downtown Now] Tori Matsuzaka.mp4
 │   ├── 2018-02-00 - [Matsumoto Ke] The Ieshima Crab Adventure 1.mp4
 │   ├── 2018-02-00 - [Matsumoto ke] Matsumoto Acupuncture Excerpt.mp4
 │   ├── 2018-02-04 - [Matsumoto ke] Matsumoto's First Friend.mp4
@@ -677,24 +746,29 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2018-06-10 - 2nd Board Game Meet-Up Part 1 #1409.mp4
 │   ├── 2018-06-17 - 2nd Board Game Meet-Up Part 2 #1410.mp4
 │   ├── 2018-07-00 - Hamada's Holiday In Thailand 1.mp4
-│   ├── 2018-07-00 - Hamada's Holiday In Thailand 2.mkv
-│   ├── 2018-07-00 - Hamada's Holiday In Thailand 3.mkv
-│   ├── 2018-07-00 - Hamada's Holiday In Thailand 4.mkv
-│   ├── 2018-07-00 - Hamada's Holiday In Thailand 5.mkv
-│   ├── 2018-07-00 - Hamada's Holiday In Thailand 6.mkv
+│   ├── 2018-07-00 - Hamada's Holiday In Thailand 2.mp4
+│   ├── 2018-07-00 - Hamada's Holiday In Thailand 3.mp4
+│   ├── 2018-07-00 - Hamada's Holiday In Thailand 4.mp4
+│   ├── 2018-07-00 - Hamada's Holiday In Thailand 5.mp4
+│   ├── 2018-07-00 - Hamada's Holiday In Thailand 6.mp4
+│   ├── 2018-07-13 - [Downtown Now] Smelling Smells.mp4
 │   ├── 2018-07-25 - [Wednesday Downtown] Scary Face.mp4
 │   ├── 2018-08-26 - Housei's Romantic Movie #1419.mp4
+│   ├── 2018-08-31 - [Downtown Now] Izumi Nakasone.mp4
 │   ├── 2018-09-02 - Dance to be Posted on SNS #1420.mp4
 │   ├── 2018-09-09 - Matsumoto 55 B-Day Special #1421.mp4
 │   ├── 2018-09-20 - [HamaChan Ga!] Nogi and RAMPAGE.mp4
 │   ├── 2018-10-05 - [Downtown Now] Girls Eating Reactions.mp4
 │   ├── 2018-10-21 - Silent Library 10 #1427.mp4
+│   ├── 2018-10-23 - [Gobu Gobu] YOU & Hamada trying on clothes.mp4
 │   ├── 2018-10-26 - [Downtown Now] Hamada Collar-grabbing Scene.mp4
 │   ├── 2018-10-28 - Best 3 in a town we've never been 4 Part 1 #1428.mp4
 │   ├── 2018-10-31 - [Wednesday Downtown] - Can you fit through that gap.mp4
 │   ├── 2018-11-04 - Best 3 In A Town we've never been 4 Part 2 #1429.mp4
+│   ├── 2018-11-04 - [Wednesday Downtown] Parent Child Challenge.mp4
+│   ├── 2018-11-08 - [Downtown DX] Kinnikun Game.mp4
 │   ├── 2018-11-11 - 3rd Board Game Meet-Up #1431.mp4
-│   ├── 2018-11-23 - [Downtown Now] Matsumoto trolling young comedians.mp4
+│   ├── 2018-11-23 - [Downtown Now] Matsumoto Trolling Young Comedians.mp4
 │   ├── 2018-11-26 - [Matsumoto Ke] - Matsumoto showing signs of aging excerpt.mp4
 │   ├── 2018-11-28 - [Wednesday Downtown] Everyones Theories.mp4
 │   ├── 2018-12-31_01 - No Laughing Treasure Hunters.mp4
@@ -708,6 +782,14 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2018-12-31_09 - No Laughing Treasure Hunters.mp4
 │   └── 2018-12-31_10 - No Laughing Treasure Hunters.mp4
 ├── 2019
+│   ├── 2019-00-00 - [CM] Downtown's SmartNews spot collection.mp4
+│   ├── 2019-00-00 - [CM] Matsumoto's Townwork Ad.mp4
+│   ├── 2019-00-00 - [Downtown Now] American guy tries to convince Downtown to expand to America.mp4
+│   ├── 2019-00-00 - [Downtown Now] Gackt explains why he doesn't have many musician friends.mkv
+│   ├── 2019-00-00 - [Downtown Now] Gackt talks about his fondness for home appliances.mp4
+│   ├── 2019-00-00 - [Downtown Now] Hamada on parenting.mp4
+│   ├── 2019-00-00 - [Downtown Now] Snapchat and Tik Tok.mp4
+│   ├── 2019-00-00 - [Entertainer Rating Check] Hamada Impersonation.mp4
 │   ├── 2019-01-00 - Hamada's Holiday In Hawaii 1.mp4
 │   ├── 2019-01-00 - Hamada's Holiday In Hawaii 2.mp4
 │   ├── 2019-01-00 - Hamada's Holiday In Hawaii 3.mp4
@@ -718,6 +800,7 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2019-01-00 - [Downtown DX] Hamada's suspicious way of talking backstage.mp4
 │   ├── 2019-01-09 - [Wednesday Downtown] - Panel Theories Special.mp4
 │   ├── 2019-01-20 - Kiki Frozen Fried Rice #1439.mp4
+│   ├── 2019-01-26 - [Unknown] Hamada on Mezamashi TV.mp4
 │   ├── 2019-02-24 - 10-Men Nagabuchi Tsuyoshi's Tonbo (Dragonfly) Singing Challenge #1444.mp4
 │   ├── 2019-03-10 - Luggage Improv #1446.mp4
 │   ├── 2019-03-31 - Silent Library 11.mp4
@@ -727,14 +810,27 @@ Salk's Gaki Stream Playlist (as of May. 6 2020)
 │   ├── 2019-04-19 - [Downtown Now] If Downtown Were Music Excerpt.mp4
 │   ├── 2019-04-21 - Bluetooth Costume Talk excerpt #1452.mp4
 │   ├── 2019-06-02 - Bikkuri Donkey Part 1 #1458.mp4
+│   ├── 2019-06-04 - [Toriniku] How do you use a record player.mp4
 │   ├── 2019-06-30 - 4th Board Game Meet-Up Part 1 #1462.mp4
 │   ├── 2019-07-07 - 4th Board Game Meet-Up Part 2 #1463.mp4
+│   ├── 2019-07-14 - Music Video Shooting with a Drone #1464.mp4
 │   ├── 2019-09-22 - Kiki Mentsuyu #1473.ass
-│   └── 2019-09-22 - Kiki Mentsuyu #1473.m4v
+│   ├── 2019-09-22 - Kiki Mentsuyu #1473.m4v
+│   ├── 2019-09-29 - 5th Let's Play World Tabletop Game #1474.mkv
+│   ├── 2019-12-31_01 - No Laughing Youth High School.mp4
+│   ├── 2019-12-31_02 - No Laughing Youth High School.mp4
+│   ├── 2019-12-31_03 - No Laughing Youth High School.mp4
+│   ├── 2019-12-31_04 - No Laughing Youth High School.mp4
+│   ├── 2019-12-31_05 - No Laughing Youth High School.mp4
+│   ├── 2019-12-31_06 - No Laughing Youth High School.mp4
+│   ├── 2019-12-31_07 - No Laughing Youth High School.mp4
+│   ├── 2019-12-31_08 - No Laughing Youth High School.mp4
+│   ├── 2019-12-31_09 - No Laughing Youth High School.mp4
+│   └── 2019-12-31_10 - No Laughing Youth High School.mp4
 └── 2020
     ├── 2020-01-19 - Absolutely Tasty Tapioca #1489.m4v
     ├── 2020-02-02 - Heipo Thai-Kicks Tanaka!.mp4
     ├── 2020-02-12 - [Wednesday Downtown] Body Clock Merry Christmas Challenge.mp4
     └── 2020-04-05 - 12th Silent Library #1500.m4v
 
-33 directories, 703 files
+33 directories, 799 files
