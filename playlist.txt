@@ -1,4 +1,4 @@
-Salk's Gaki Stream Playlist (as of September 23 2020)
+Salk's Gaki Stream Playlist (as of October 27 2020)
 .
 ├── 1988
 │   └── 1988-00-00 - [Yoji Desu Yo�204da] 2nd District Band - It's 4 o'clock.mp4
@@ -166,7 +166,7 @@ Salk's Gaki Stream Playlist (as of September 23 2020)
 │   ├── 1993-11-14 - Oogiri Daigasen 6 #200.mp4
 │   └── 1993-12-05 - Bravery Bowling 2 #205.avi
 ├── 1994
-│   ├── 1994-01-16 - [Gottsu Ee Kanji] - Body Concious Mother Contest #85.mp4
+│   ├── 1994-01-16 - [Gottsu Ee Kanji] Body Concious Mother Contest #85.mp4
 │   └── 1994-10-02 - Wall of Boxes #115.avi
 ├── 1995
 │   ├── 1995-00-00 - [The Team Fight] #02 Barrel_Rolling.flv
@@ -481,8 +481,8 @@ Salk's Gaki Stream Playlist (as of September 23 2020)
 │   ├── 2009-08-11 - [Lincoln] Reclaim Mimura's Tsukkomi Heart #164.mp4
 │   ├── 2009-08-23 - Kiki Ham #969.mp4
 │   ├── 2009-08-25 - [Lincoln] Mimura Helps Ootake with the Baby #166.mp4
-│   ├── 2009-09-06 - Food Marathon Gyoza Part 1 #0970.mp4
-│   ├── 2009-09-13 - Food Marathon Gyoza Part 2 #0971.mp4
+│   ├── 2009-09-06 - Food Marathon Gyoza Part 1 #970.mp4
+│   ├── 2009-09-13 - Food Marathon Gyoza Part 2 #971.mp4
 │   ├── 2009-10-04 - The Anguish of Endo Shouzo #977.mp4
 │   ├── 2009-10-25 - Heipo Spirit Camp #977.mkv
 │   ├── 2009-12-13 - Kiki Corn Soup #984.avi
@@ -655,8 +655,8 @@ Salk's Gaki Stream Playlist (as of September 23 2020)
 │   ├── 2016-05-22 - Kiki Tomato Juice #1306.mp4
 │   ├── 2016-05-27 - [Knight Scoop] Matsumoto Hitoshi Stuck Cups.mp4
 │   ├── 2016-06-01 - [Wednesday Downtown] Complete.mp4
-│   ├── 2016-06-05 - 6th Silent Library 1 #1308.mp4
-│   ├── 2016-06-12 - 6th Silent Library 2 #1309.mp4
+│   ├── 2016-06-05 - Silent Library 6 Part 1 #1308.mp4
+│   ├── 2016-06-12 - Silent Library 6 Part 2 #1309.mp4
 │   ├── 2016-07-06 - [Wednesday Downtown] Complete.mp4
 │   ├── 2016-07-13 - [Wednesday Downtown] Complete.mp4
 │   ├── 2016-07-20 - [Wednesday Downtown] Reverse Prank.mp4
@@ -696,7 +696,7 @@ Salk's Gaki Stream Playlist (as of September 23 2020)
 │   ├── 2017-02-22 - [Wednesday Downtown] Xmas Presents.mp4
 │   ├── 2017-02-26 - Sunshine Saito Grand Prix #1344.mp4
 │   ├── 2017-03-05 - I think that you like this 9 #1345.mp4
-│   ├── 2017-04-01 - [Matsumoto Ke] - Matsumoto Tries Boxing excerpt.mp4
+│   ├── 2017-04-01 - [Matsumoto Ke] Matsumoto Tries Boxing excerpt.mp4
 │   ├── 2017-04-03 - Silent Library 7 #1352.mp4
 │   ├── 2017-04-30 - Sudden Outburst of Laughter Tour #1353.mp4
 │   ├── 2017-05-12 - [Downtown Now] Emoto.mp4
@@ -711,7 +711,8 @@ Salk's Gaki Stream Playlist (as of September 23 2020)
 │   ├── 2017-08-27 - Endo Bus Hijacker Returns #1370.mp4
 │   ├── 2017-08-30 - [Wednesday Downtown] Complete.mp4
 │   ├── 2017-09-03 - Silent Library 8 #1371.mkv
-│   ├── 2017-11-01 - [Wednesday Downtown] - Top 100 Most Famous People in Japan.mp4
+│   ├── 2017-10-18 - [Wednesday Downtown] Fake Golf Rules Theory.mp4
+│   ├── 2017-11-01 - [Wednesday Downtown] Top 100 Most Famous People in Japan.mp4
 │   ├── 2017-11-26 - Batsu Game Restrospective #1382.mp4
 │   ├── 2017-12-10 - Refrigerator Ingredients Battle #1384.mp4
 │   ├── 2017-12-31_01 - No Laughing American Police.mp4
@@ -754,6 +755,7 @@ Salk's Gaki Stream Playlist (as of September 23 2020)
 │   ├── 2018-02-28 - [Wednesday Downtown] Complete.mp4
 │   ├── 2018-03-04 - Board Game Meet-Up #1395.mp4
 │   ├── 2018-03-07 - [Wednesday Downtown] You're Gonna Sing It Theory.mp4
+│   ├── 2018-03-11 - Silent Library 9 Part 1 #1396.mp4
 │   ├── 2018-04-22 - Ask the Best 3 in a Strange Town Part 1 #1402.mp4
 │   ├── 2018-04-22 - [Matsumoto ke] Mom Got Taken Away.mp4
 │   ├── 2018-04-40 - 2018-06-13 - [Wednesday Downtown] Hontou Dokkiri.mp4
@@ -832,6 +834,7 @@ Salk's Gaki Stream Playlist (as of September 23 2020)
 │   ├── 2019-04-21 - Bluetooth Costume Talk excerpt #1452.mp4
 │   ├── 2019-06-02 - Bikkuri Donkey Part 1 #1458.mp4
 │   ├── 2019-06-04 - [Toriniku] How do you use a record player.mp4
+│   ├── 2019-06-16 - Apology Press Conference Simulation #1460.mp4
 │   ├── 2019-06-30 - 4th Board Game Meet-Up Part 1 #1462.mp4
 │   ├── 2019-07-07 - 4th Board Game Meet-Up Part 2 #1463.mp4
 │   ├── 2019-07-14 - Music Video Shooting with a Drone #1464.mp4
@@ -853,12 +856,17 @@ Salk's Gaki Stream Playlist (as of September 23 2020)
     ├── 2020-02-02 - Heipo Thai-Kicks Tanaka!.mp4
     ├── 2020-02-12 - [Wednesday Downtown] Body Clock Merry Christmas Challenge.mp4
     ├── 2020-02-23 - Hamada Dokkiri #1494.mp4
-    ├── 2020-04-05 - 12th Silent Library #1500.m4v
+    ├── 2020-04-05 - Silent Library 12 #1500.m4v
     ├── 2020-05-27 - [Wednesday Downtown] Obvious Prank.mp4
     ├── 2020-06-00 - [Downtown Now] EXIT, Gift Giving, and Downtown have separate dressing rooms.mp4
     ├── 2020-06-00 - [Downtown Now] Hamada growing his hair out and trying ASMR.mp4
     ├── 2020-07-12 - 6th Let's Play World Tabletop Games #1518.mp4
     ├── 2020-07-19 - Hosei's lipsync performance of BOOWY's classic song 'Only You' [UNSUBED] #1519.mp4
-    └── 2020-09-05 - [Shinsainchou] - Matsumoto Tries the Hug Machine.mp4
+    ├── 2020-09-05 - [Shinsainchou] - Matsumoto Tries the Hug Machine.mp4
+    ├── 2020-10-04 - 8 Years Old Contest #1526.mp4
+    ├── 2020-10-11_00 - [CM] Hamada's Demae-can Ad and Behind The Scenes.mp4
+    ├── 2020-10-11_01 - Demae-can CM Challenge #1527.mp4
+    ├── 2020-10-18 - Endo Dokkiri 100 Questions Quiz #1528.mp4
+    └── 2020-10-25 - 2nd GakiTsuka Jiji-nuki #1529.mp4
 
-3 directories, 799 files
+33 directories, 835 files
