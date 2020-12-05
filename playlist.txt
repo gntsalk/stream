@@ -1,8 +1,9 @@
-Salk's Gaki Stream Playlist (as of October 27 2020)
+Salk's Gaki Stream Playlist (as of December 0 2020)
 .
 ├── 1988
 │   └── 1988-00-00 - [Yoji Desu Yo�204da] 2nd District Band - It's 4 o'clock.mp4
 ├── 1989
+│   ├── 1989-00-00 - Downtown react to their own manzai skit from when they were 18 years old [UNSUBED].mp4
 │   └── 1989-10-03 - Gaki no Tsukai Introduction #1.mp4
 ├── 1990
 │   └── 1990-06-12 - 3 Minute Cooking #36.mp4
@@ -104,6 +105,7 @@ Salk's Gaki Stream Playlist (as of October 27 2020)
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Mr Bater Pharmacy (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Mr Bater Umbrella (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] N.B.A. Honkon (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] N.B.A. Honkon Bozu.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] N.B.A. Imada-Ryoko.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] N.B.A. You (HD).mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Nandaro-Kun 3.mp4
@@ -149,6 +151,7 @@ Salk's Gaki Stream Playlist (as of October 27 2020)
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Tuesday Night Drama.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Under Construction.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Under the Stars (HD).mp4
+│   ├── 1993-00-00 - [Gottsu Ee Kanji] Violent Classroom.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Whats Happening To You Quiz 1.mp4
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Whats Happening To You Quiz 2.webm
 │   ├── 1993-00-00 - [Gottsu Ee Kanji] Whats Happening To You Quiz 3.webm
@@ -277,6 +280,7 @@ Salk's Gaki Stream Playlist (as of October 27 2020)
 │   ├── 2001-00-00 - Manzai Collection 5.mp4
 │   ├── 2001-00-00 - Matsumoto Got Stuck In His Own Parking Lot.mp4
 │   ├── 2001-00-00 - Pet Shop's Night Time Secret.mkv
+│   ├── 2001-00-00 - What if Hamada dies tomorrow.mkv
 │   ├── 2001-03-08 - Goodbye Yamasaki 2001 #553.mp4
 │   ├── 2001-03-11 - Kiki Bread #552.avi
 │   ├── 2001-05-20 - Gorenjai #561.avi
@@ -550,6 +554,7 @@ Salk's Gaki Stream Playlist (as of October 27 2020)
 │   ├── 2012-04-29_03 - Good Boy Contest #1103.mp4
 │   ├── 2012-04-29_04 - Good Boy Contest #1103.mp4
 │   ├── 2012-05-20 - Comedy Guidelines Decision Meeting (Yamazaki's Judgement) #1106.mp4
+│   ├── 2012-06-10 - Tanaka's Breakdown 2 #1109.mp4
 │   ├── 2012-07-08 - Hamada 50 People Knockout Challenge #1113.mp4
 │   ├── 2012-07-15 - Yamasaki Produce 5 #1114.mkv
 │   ├── 2012-07-22 - 21st Itao Series Gaki Member in Indian Show #1115.mkv
@@ -605,6 +610,7 @@ Salk's Gaki Stream Playlist (as of October 27 2020)
 │   ├── 2014-07-27 - Foodie Report Part 2 #1215.mp4
 │   ├── 2014-08-03 - Unstoppable Moves #1216.mp4
 │   ├── 2014-08-17 - 2nd Hamada's Cram School #1218.mkv
+│   ├── 2014-09-07 - Members first contact with Pepper Robot #1221.mp4
 │   ├── 2014-09-14 - Real Rage Tour #1222.mp4
 │   ├── 2014-09-28 - Kiki Cheese #1224.mkv
 │   └── 2014-12-31 - No Laughing Prison.mp4
@@ -660,6 +666,7 @@ Salk's Gaki Stream Playlist (as of October 27 2020)
 │   ├── 2016-07-06 - [Wednesday Downtown] Complete.mp4
 │   ├── 2016-07-13 - [Wednesday Downtown] Complete.mp4
 │   ├── 2016-07-20 - [Wednesday Downtown] Reverse Prank.mp4
+│   ├── 2016-07-24 - 2nd Rendezvous Game #1314.mp4
 │   ├── 2016-07-31 - Costume Talk - Letter reading #1315.mp4
 │   ├── 2016-08-07 - Absolutely Tasty Okonomiyaki 1 #1316.mp4
 │   ├── 2016-08-14 - Absolutely Tasty Okonomiyaki 2 #1317.mp4
@@ -756,6 +763,7 @@ Salk's Gaki Stream Playlist (as of October 27 2020)
 │   ├── 2018-03-04 - Board Game Meet-Up #1395.mp4
 │   ├── 2018-03-07 - [Wednesday Downtown] You're Gonna Sing It Theory.mp4
 │   ├── 2018-03-11 - Silent Library 9 Part 1 #1396.mp4
+│   ├── 2018-03-18 - Silent Library 9 Part 2 #1397.mp4
 │   ├── 2018-04-22 - Ask the Best 3 in a Strange Town Part 1 #1402.mp4
 │   ├── 2018-04-22 - [Matsumoto ke] Mom Got Taken Away.mp4
 │   ├── 2018-04-40 - 2018-06-13 - [Wednesday Downtown] Hontou Dokkiri.mp4
@@ -802,6 +810,7 @@ Salk's Gaki Stream Playlist (as of October 27 2020)
 │   ├── 2018-12-31_09 - No Laughing Treasure Hunters.mp4
 │   └── 2018-12-31_10 - No Laughing Treasure Hunters.mp4
 ├── 2019
+│   ├── 2019-00-00 - [CM] Cocorico Promise App Ad.mp4
 │   ├── 2019-00-00 - [CM] Downtown's SmartNews spot collection.mp4
 │   ├── 2019-00-00 - [CM] Matsumoto's Townwork Ad.mp4
 │   ├── 2019-00-00 - [Downtown Now] American guy tries to convince Downtown to expand to America.mp4
@@ -867,6 +876,8 @@ Salk's Gaki Stream Playlist (as of October 27 2020)
     ├── 2020-10-11_00 - [CM] Hamada's Demae-can Ad and Behind The Scenes.mp4
     ├── 2020-10-11_01 - Demae-can CM Challenge #1527.mp4
     ├── 2020-10-18 - Endo Dokkiri 100 Questions Quiz #1528.mp4
-    └── 2020-10-25 - 2nd GakiTsuka Jiji-nuki #1529.mp4
+    ├── 2020-10-25 - 2nd GakiTsuka Jiji-nuki #1529.mp4
+    ├── 2020-11-01 - Survival Game Without Weapons #1530.mp4
+    └── 2020-11-08 - I think that you like this 6 #1531.mp4
 
-33 directories, 835 files
+33 directories, 846 files
