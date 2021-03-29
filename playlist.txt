@@ -1,7 +1,7 @@
-Salk's Gaki Stream Playlist (as of March 17 2021)
+Salk's Gaki Stream Playlist (as of March 27 2021)
 .
 ├── 1988
-│   └── 1988-00-00 - [Yoji Desu Youda] 2nd District Band - It's 4 o'clock.mp4
+│   └── 1988-00-00 - [Yoji Desu Yoda] 2nd District Band - It's 4 o'clock.mp4
 ├── 1989
 │   ├── 1989-00-00 - Downtown react to their own manzai skit from when they were 18 years old [UNSUBED].mp4
 │   └── 1989-10-03 - Gaki no Tsukai Introduction #1.mp4
@@ -693,6 +693,10 @@ Salk's Gaki Stream Playlist (as of March 17 2021)
 │   ├── 2016-11-09 - [Wednesday Downtown] Complete.mp4
 │   ├── 2016-11-13 - Jungle Pocket Saito Shichi Henge #1330.mp4
 │   ├── 2016-11-20 - Ask the Best 5 in a Strange Town 1 #1331.mp4
+│   ├── 2016-11-30_01 - [Documental 1] 10 Brave Participants.mp4
+│   ├── 2016-11-30_02 - [Documental 1] First Dropout.mp4
+│   ├── 2016-11-30_03 - [Documental 1] More Dropouts.mp4
+│   ├── 2016-11-30_04 - [Documental 1] Death Match.mp4
 │   ├── 2016-12-11 - 2nd I Think This Item Will Suit You #1334.mp4
 │   ├── 2016-12-31_01 - No Laughing Science Lab.mp4
 │   ├── 2016-12-31_02 - No Laughing Science Lab.mp4
@@ -723,6 +727,11 @@ Salk's Gaki Stream Playlist (as of March 17 2021)
 │   ├── 2017-03-05 - I think that you like this 9 #1345.mp4
 │   ├── 2017-04-01 - [Matsumoto Ke] Matsumoto Tries Boxing excerpt.mp4
 │   ├── 2017-04-03 - Silent Library 7 #1352.mp4
+│   ├── 2017-04-26_01 - [Documental 2] The Beginning of a New Fight.mkv
+│   ├── 2017-04-26_02 - [Documental 2] A Fierce Battle.mkv
+│   ├── 2017-04-26_03 - [Documental 2] A Small Window.mkv
+│   ├── 2017-04-26_04 - [Documental 2] Time is Running Out.mkv
+│   ├── 2017-04-26_05 - [Documental 2] The Ultimate Victor.mkv
 │   ├── 2017-04-30 - Sudden Outburst of Laughter Tour #1353.mp4
 │   ├── 2017-05-12 - [Downtown Now] Emoto.mp4
 │   ├── 2017-05-14 - IKKO's Men Calendar Part 1 Tanaka Excerpt #1355.mp4
@@ -733,6 +742,11 @@ Salk's Gaki Stream Playlist (as of March 17 2021)
 │   ├── 2017-06-18 - Tsukitei Hosei Produce VI #1360.mp4
 │   ├── 2017-06-25 - No reaction Competition Part 1 #1361.mp4
 │   ├── 2017-07-02 - No Reaction Competition Part 2 #1362.mp4
+│   ├── 2017-08-02_01 - [Documental 3] New Challengers.mkv
+│   ├── 2017-08-02_02 - [Documental 3] Technical Compensation.mkv
+│   ├── 2017-08-02_03 - [Documental 3] Mental Battle.mkv
+│   ├── 2017-08-02_04 - [Documental 3] Zombie Time Invocation.mkv
+│   ├── 2017-08-02_05 - [Documental 3] Way of Victory.mkv
 │   ├── 2017-08-20 - Single Father Tanaka's New Marriage Partner Competition #1369.mp4
 │   ├── 2017-08-27 - Endo Bus Hijacker Returns #1370.mp4
 │   ├── 2017-08-30 - [Wednesday Downtown] Complete.mp4
@@ -740,6 +754,11 @@ Salk's Gaki Stream Playlist (as of March 17 2021)
 │   ├── 2017-10-18 - [Wednesday Downtown] Fake Golf Rules Theory.mp4
 │   ├── 2017-11-01 - [Wednesday Downtown] Top 100 Most Famous People in Japan.mp4
 │   ├── 2017-11-26 - Batsu Game Restrospective #1382.mp4
+│   ├── 2017-11-30_01 - [Documental 4] The Unexpected Challengers.mp4
+│   ├── 2017-11-30_02 - [Documental 4] Consecutive Penalty Cards.mp4
+│   ├── 2017-11-30_03 - [Documental 4] Harsh Time.mp4
+│   ├── 2017-11-30_04 - [Documental 4] Episode 4.mp4
+│   ├── 2017-11-30_05 - [Documental 4] The Final Battle.mp4
 │   ├── 2017-12-10 - Refrigerator Ingredients Battle #1384.mp4
 │   ├── 2017-12-31_01 - No Laughing American Police.mp4
 │   ├── 2017-12-31_02 - No Laughing American Police.mp4
@@ -785,9 +804,13 @@ Salk's Gaki Stream Playlist (as of March 17 2021)
 │   ├── 2018-03-11 - Silent Library 9 Part 1 #1396.mp4
 │   ├── 2018-03-18 - Silent Library 9 Part 2 #1397.mp4
 │   ├── 2018-03-28 - [Wednesday Downtown] Complete.mp4
+│   ├── 2018-04-20_01 - [Documental 5] A Turbulent Start.mp4
+│   ├── 2018-04-20_02 - [Documental 5] Stroke Of A Society.mp4
+│   ├── 2018-04-20_03 - [Documental 5] Battle of the Edge.mp4
+│   ├── 2018-04-20_04 - [Documental 5] Lethal Weapon.mp4
+│   ├── 2018-04-20_05 - [Documental 5] Laughing at the End.mp4
 │   ├── 2018-04-22 - Ask the Best 3 in a Strange Town Part 1 #1402.mp4
 │   ├── 2018-04-22 - [Matsumoto ke] Mom Got Taken Away.mp4
-│   ├── 2018-04-40 - 2018-06-13 - [Wednesday Downtown] Hontou Dokkiri.mp4
 │   ├── 2018-05-00_01 - [Matsumoto Ke] Matsumoto shocked by an electric eel excerpt.mp4
 │   ├── 2018-05-00_02 - [Matsumoto Ke] Most comfortable thing to touch ever excerpt.mp4
 │   ├── 2018-05-13 - [Matsumoto Ke] Matsumoto and friends are dare devils for a day excerpt.mp4
@@ -902,11 +925,12 @@ Salk's Gaki Stream Playlist (as of March 17 2021)
 │   ├── 2020-10-11_00 - [CM] Hamada's Demae-can Ad and Behind The Scenes.mp4
 │   ├── 2020-10-11_01 - Demae-can CM Challenge #1527.mp4
 │   ├── 2020-10-18 - Endo Dokkiri 100 Questions Quiz #1528.mp4
+│   ├── 2020-10-24 - [Machanneru] Joshimental.mp4
 │   ├── 2020-10-25 - 2nd GakiTsuka Jiji-nuki #1529.mp4
 │   ├── 2020-11-01 - Survival Game Without Weapons #1530.mp4
 │   ├── 2020-11-08 - I think that you like this 6 #1531.mp4
 │   ├── 2020-11-15 - Project Ho Ho Hoi #1532.m4v
-│   ├── 2020-11-29  - 3rd GakiTsuka Jiji-nuki #1534.mkv
+│   ├── 2020-11-29 - 3rd GakiTsuka Jiji-nuki #1534.mkv
 │   ├── 2020-12-06 - Jimmy's Fake Home Visit Show #1535.m4v
 │   └── 2020-12-31_00 - No Laughing Las Vegas Promo.m4v
 └── 2021
@@ -914,4 +938,4 @@ Salk's Gaki Stream Playlist (as of March 17 2021)
     ├── 2021-01-17 - Silent Library 13 #1540.m4v
     └── 2021-02-24 - [Wednesday Downtown] Complete.m4v
 
-34 directories, 879 files
+34 directories, 903 files
