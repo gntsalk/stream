@@ -1,4 +1,4 @@
-Salk's Gaki Stream Playlist (as of August 29 2021)
+Salk's Gaki Stream Playlist (as of November 5 2021)
 .
 ├── 1988
 │   └── 1988-00-00 - [Yoji Desu Yoda] 2nd District Band - It's 4 o'clock.mp4
@@ -546,11 +546,13 @@ Salk's Gaki Stream Playlist (as of August 29 2021)
 │   ├── 2011-04-24 - Burning Hot Tennis Lesson #1051.mp4
 │   ├── 2011-05-29 - What Matsumoto Likes #1056.mkv
 │   ├── 2011-06-05 - Personally Special Song Drive #1057.mp4
+│   ├── 2011-06-12 - Murakami Class Feudal Lord #1058.mp4
 │   ├── 2011-06-19 - Absolutely Tasty Bibimbap #1059.mp4
 │   ├── 2011-06-26 - Yamasaki Pranks Himself #1060.mkv
 │   ├── 2011-07-10 - Make Them Laugh Sumo #1062.mp4
 │   ├── 2011-08-14 - Heipo's Sleepover #1067.mp4
 │   ├── 2011-08-16 - [Lincoln] 1st Midnight Horror Radio #240.mp4
+│   ├── 2011-08-28 - Yakiniku Toraji Food Marathon Part 1 #1069.mp4
 │   ├── 2011-09-11 - Heipo's Camping Trip #1071.mp4
 │   ├── 2011-09-25 - Kiki Potato Chips #1073.mkv
 │   ├── 2011-10-23 - Hamada Quiz Show #1077.mkv
@@ -712,6 +714,8 @@ Salk's Gaki Stream Playlist (as of August 29 2021)
 │   ├── 2016-08-14 - Absolutely Tasty Okonomiyaki 2 #1317.mp4
 │   ├── 2016-08-29 - World Ghost Story Summit #1319.mp4
 │   ├── 2016-09-04 - Look Sharp and Hold It! The 30-Minute Endurance Drive #1320.mp4
+│   ├── 2016-09-18 - 3rd Rendezvous Game Part 1 #1322.mp4
+│   ├── 2016-09-25 - 3rd Rendezvous Game Part 2 #1323.mp4
 │   ├── 2016-10-02 - Hamada's 3rd Cram School #1324.mp4
 │   ├── 2016-10-14 - Kiki Melonpan #1326.mp4
 │   ├── 2016-11-04 - [Downtown Now] Ayabe.mp4
@@ -820,8 +824,10 @@ Salk's Gaki Stream Playlist (as of August 29 2021)
 │   ├── 2018-01-26 - [Downtown Now] Tori Matsuzaka.mp4
 │   ├── 2018-02-00 - [Matsumoto ke] Matsumoto Acupuncture Excerpt.mp4
 │   ├── 2018-02-04 - [Matsumoto ke] Matsumoto's First Friend.mp4
-│   ├── 2018-02-11 - [Matsumoto Ke] The Ieshima Crab Adventure 1.mp4
-│   ├── 2018-02-18 - [Matsumoto Ke] The Ieshima Crab Adventure 2.mp4
+│   ├── 2018-02-11_11 - [Matsumoto Ke] The Ieshima Crab Adventure 1.mp4
+│   ├── 2018-02-11_18 - [Matsumoto Ke] The Ieshima Crab Adventure 2.mp4
+│   ├── 2018-02-11_99 - Ikinari Steak Food Marathon Part 1 #1392.mp4
+│   ├── 2018-02-18 - Ikenari Steak Food Marathon Part 2 #1393.mp4
 │   ├── 2018-02-21 - [Wednesday Downtown] Complete.mp4
 │   ├── 2018-02-25 - Goodbye Tsukitei Housei #1394.mp4
 │   ├── 2018-02-28 - [Wednesday Downtown] Complete.mp4
@@ -923,6 +929,7 @@ Salk's Gaki Stream Playlist (as of August 29 2021)
 │   ├── 2019-06-04 - [Toriniku] How do you use a record player.mp4
 │   ├── 2019-06-09 - Bikkuri Donkey Part 2 #1459.mp4
 │   ├── 2019-06-16 - Apology Press Conference Simulation #1460.mp4
+│   ├── 2019-06-23 - 5th Ask the Best 3 in a Strange Town #1461.mp4
 │   ├── 2019-06-30 - 4th Board Game Meet-Up Part 1 #1462.mp4
 │   ├── 2019-07-07 - 4th Board Game Meet-Up Part 2 #1463.mp4
 │   ├── 2019-07-14 - Music Video Shooting with a Drone #1464.mp4
@@ -966,10 +973,14 @@ Salk's Gaki Stream Playlist (as of August 29 2021)
 │   └── 2020-12-31_00 - No Laughing Las Vegas Promo.m4v
 └── 2021
     ├── 2021-01-02 - [Shinsainchou] Most Comfortable Things To Touch Contest.mp4
-    ├── 2021-01-17 - Silent Library 13 #1540.m4v
+    ├── 2021-01-17 - Silent Library 13 #1540.mp4
     ├── 2021-02-24 - [Wednesday Downtown] Complete.m4v
     ├── 2021-02-28 - 100 Yen Items STAR WARS Meetup #1546.m4v
+    ├── 2021-04-11 - Tabletop Games Hamada Dokkiri 2 #1552.mp4
+    ├── 2021-04-17 - Yamasaki Produce 7 #1553.mp4
     ├── 2021-06-06 - Cookie Woman Diver Class #1560.mp4
+    ├── 2021-06-13 - Cookie Woman Diver Class Part 2 #1561.mp4
+    ├── 2021-07-11 - 5th Jiji-Nuki Game #1565.mp4
     └── 2021-08-21 - Tanaker #1570.mp4
 
-34 directories, 937 files
+34 directories, 948 files
