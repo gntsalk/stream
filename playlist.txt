@@ -1,4 +1,4 @@
-Salk's Gaki Stream Playlist (as of November 5 2021)
+Salk's Gaki Stream Playlist (as of December 25 2021)
 .
 ├── 1988
 │   └── 1988-00-00 - [Yoji Desu Yoda] 2nd District Band - It's 4 o'clock.mp4
@@ -464,6 +464,7 @@ Salk's Gaki Stream Playlist (as of November 5 2021)
 │   ├── 2008-00-00 - Silent Library.mp4
 │   ├── 2008-00-00 - [Tanaka-Block] 40 Year Old Comedians Fence Climbing Test.mp4
 │   ├── 2008-00-00 - [Tanaka-Block] Tanaka and Mimura's Sketch.mp4
+│   ├── 2008-02-04 - Yamasaki Sneaky Thief Trial #893.avi
 │   ├── 2008-02-05_01 - [Lincoln] Sekkyou Sensei, Kojima Yoshio #98.mp4
 │   ├── 2008-02-05_02 - [Lincoln] Sekkyou Sensei, Kojima Yoshio #98.mp4
 │   ├── 2008-02-05_03 - [Lincoln] Sekkyou Sensei, Kojima Yoshio #98.mp4
@@ -553,6 +554,7 @@ Salk's Gaki Stream Playlist (as of November 5 2021)
 │   ├── 2011-08-14 - Heipo's Sleepover #1067.mp4
 │   ├── 2011-08-16 - [Lincoln] 1st Midnight Horror Radio #240.mp4
 │   ├── 2011-08-28 - Yakiniku Toraji Food Marathon Part 1 #1069.mp4
+│   ├── 2011-09-04 - Yakiniku Toraji Food Marathon Part 2 #1070.mp4
 │   ├── 2011-09-11 - Heipo's Camping Trip #1071.mp4
 │   ├── 2011-09-25 - Kiki Potato Chips #1073.mkv
 │   ├── 2011-10-23 - Hamada Quiz Show #1077.mkv
@@ -589,6 +591,7 @@ Salk's Gaki Stream Playlist (as of November 5 2021)
 │   ├── 2012-05-20 - Comedy Guidelines Decision Meeting (Yamazaki's Judgement) #1106.mp4
 │   ├── 2012-05-27 - Hungry Drive Part 1 #1107.m4v
 │   ├── 2012-06-03 - Hungry Drive Part 2 #1108.mp4
+│   ├── 2012-06-05 - [Lincoln] No-SATNAV Rally 2 #270.mp4
 │   ├── 2012-06-10 - Tanaka's Breakdown 2 #1109.mp4
 │   ├── 2012-07-08 - Hamada 50 People Knockout Challenge #1113.mp4
 │   ├── 2012-07-15 - Yamasaki Produce 5 #1114.mkv
@@ -640,6 +643,8 @@ Salk's Gaki Stream Playlist (as of November 5 2021)
 │   ├── 2014-04-27 - TKO Kinoshita Shichi-henge #1202.mp4
 │   ├── 2014-05-04 - I think that you like this 2 #1203.mkv
 │   ├── 2014-05-06 - [Gobu Gobu] Hamadas Favorite Stuff in Osaka.mp4
+│   ├── 2014-05-11 - Aged Hamada Trial Part 1 #1204.mp4
+│   ├── 2014-05-18 - Aged Hamada Trial Part 2 #1205.mp4
 │   ├── 2014-05-25 - Kiki Non-Alcoholic Beer #1206.mkv
 │   ├── 2014-06-22 - I think that you like this 3 #1210.mkv
 │   ├── 2014-07-06 - Weeping Performance Competition #1212.mkv
@@ -651,6 +656,7 @@ Salk's Gaki Stream Playlist (as of November 5 2021)
 │   ├── 2014-09-07 - Members first contact with Pepper Robot #1221.mp4
 │   ├── 2014-09-14 - Real Rage Tour #1222.mp4
 │   ├── 2014-09-28 - Kiki Cheese #1224.mkv
+│   ├── 2014-11-23 - Gekidan Hitori Shichi Henge #1232.mp4
 │   ├── 2014-11-30 - Costume Talk #1233.mp4
 │   └── 2014-12-31 - No Laughing Prison.mp4
 ├── 2015
@@ -922,6 +928,12 @@ Salk's Gaki Stream Playlist (as of November 5 2021)
 │   ├── 2019-04-19 - [Downtown Now] If Downtown Were Music Excerpt.mp4
 │   ├── 2019-04-20 - 1st Jiji-Nuki Game #1502.mp4
 │   ├── 2019-04-21 - Bluetooth Costume Talk excerpt #1452.mp4
+│   ├── 2019-04-26 - [Documental 7] Episode 1.mp4
+│   ├── 2019-04-26 - [Documental 7] Episode 2_1.mp4
+│   ├── 2019-04-26 - [Documental 7] Episode 2_2.mp4
+│   ├── 2019-04-26 - [Documental 7] Episode 3.mp4
+│   ├── 2019-04-26 - [Documental 7] Episode 4.mp4
+│   ├── 2019-04-26 - [Documental 7] Episode 5.mp4
 │   ├── 2019-05-12 - High Tension The Top 10 XVII #1455.mp4
 │   ├── 2019-05-19 - Calbee Potato Chips Game 1 #1456.mp4
 │   ├── 2019-05-26 - Calbee Potato Chips Game 2 #1457.mp4
@@ -936,6 +948,8 @@ Salk's Gaki Stream Playlist (as of November 5 2021)
 │   ├── 2019-09-22 - Kiki Mentsuyu #1473.ass
 │   ├── 2019-09-22 - Kiki Mentsuyu #1473.m4v
 │   ├── 2019-09-29 - 5th Let's Play World Tabletop Game #1474.mkv
+│   ├── 2019-10-20 - 7th Rendezvouz Game Part 1 #1477.mp4
+│   ├── 2019-10-27 - 7th Rendezvouz Game Part 2 #1478.mp4
 │   ├── 2019-12-31_01 - No Laughing Youth High School.mp4
 │   ├── 2019-12-31_02 - No Laughing Youth High School.mp4
 │   ├── 2019-12-31_03 - No Laughing Youth High School.mp4
@@ -976,11 +990,18 @@ Salk's Gaki Stream Playlist (as of November 5 2021)
     ├── 2021-01-17 - Silent Library 13 #1540.mp4
     ├── 2021-02-24 - [Wednesday Downtown] Complete.m4v
     ├── 2021-02-28 - 100 Yen Items STAR WARS Meetup #1546.m4v
+    ├── 2021-03-31 - [Wednesday Downtown] Complete.mp4
     ├── 2021-04-11 - Tabletop Games Hamada Dokkiri 2 #1552.mp4
     ├── 2021-04-17 - Yamasaki Produce 7 #1553.mp4
     ├── 2021-06-06 - Cookie Woman Diver Class #1560.mp4
     ├── 2021-06-13 - Cookie Woman Diver Class Part 2 #1561.mp4
     ├── 2021-07-11 - 5th Jiji-Nuki Game #1565.mp4
-    └── 2021-08-21 - Tanaker #1570.mp4
+    ├── 2021-08-21 - Tanaker #1570.mp4
+    ├── 2021-11-10 - [Wednesday Downtown] Complete.mp4
+    ├── 2021-11-17 - [Wednesday Downtown] Complete.mp4
+    ├── 2021-11-24 - [Wednesday Downtown] Complete.mp4
+    ├── 2021-12-01 - [Wednesday Downtown] Complete.mp4
+    ├── 2021-12-05 - 8th Rendezvouz Game Part 1 #1583.mp4
+    └── 2021-12-12 - 8th Rendezvouz Game Part 2 #1584.mp4
 
-34 directories, 948 files
+34 directories, 969 files
