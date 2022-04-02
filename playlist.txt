@@ -1,4 +1,4 @@
-Salk's Gaki Stream Playlist (as of December 25 2021)
+Salk's Gaki Stream Playlist (as of April 1, 2022)
 .
 ├── 1988
 │   └── 1988-00-00 - [Yoji Desu Yoda] 2nd District Band - It's 4 o'clock.mp4
@@ -444,14 +444,14 @@ Salk's Gaki Stream Playlist (as of December 25 2021)
 │   ├── 2007-01-21 - Murakami Class Green Beret #839.avi
 │   ├── 2007-02-04 - Matsumoto Technician 2 Nipple Touching #841.avi
 │   ├── 2007-02-11 - Yama No Ishimatsu 100 Cuts #842.avi
+│   ├── 2007-02-25 - Fujiwara Fujimoto Shichi Henge #844.mkv
 │   ├── 2007-03-11 - Kiki Oolong Tea #846.avi
 │   ├── 2007-04-01 - Hamada 500 Questions #849.mp4
 │   ├── 2007-04-17 - [Lincoln] 9th Friendly Downtown - Takashi Fuji #63.mkv
 │   ├── 2007-05-06 - Absolutely Tasty Pasta #853.avi
 │   ├── 2007-06-17 - Food Battle vs Galsone #859.mp4
 │   ├── 2007-06-24 - Hamada Sleep Endurance #860.avi
-│   ├── 2007-07-08_01 - Rubix Cube Sauna Battle #862.mp4
-│   ├── 2007-07-08_02 - Downtown Talk #862.mp4
+│   ├── 2007-07-08 - Rubix Cube Sauna Battle #862.mp4
 │   ├── 2007-07-17 - [Lincoln] 10th Friendly Downtown - Jinnai Tomonori #76.mp4
 │   ├── 2007-09-02 - Murakami Class Pilot #869.mkv
 │   ├── 2007-09-04 - [Lincoln] Tsuyoshi meets NERIMOTHA FUCKERZ #81.flv
@@ -464,13 +464,14 @@ Salk's Gaki Stream Playlist (as of December 25 2021)
 │   ├── 2008-00-00 - Silent Library.mp4
 │   ├── 2008-00-00 - [Tanaka-Block] 40 Year Old Comedians Fence Climbing Test.mp4
 │   ├── 2008-00-00 - [Tanaka-Block] Tanaka and Mimura's Sketch.mp4
-│   ├── 2008-02-04 - Yamasaki Sneaky Thief Trial #893.avi
 │   ├── 2008-02-05_01 - [Lincoln] Sekkyou Sensei, Kojima Yoshio #98.mp4
 │   ├── 2008-02-05_02 - [Lincoln] Sekkyou Sensei, Kojima Yoshio #98.mp4
 │   ├── 2008-02-05_03 - [Lincoln] Sekkyou Sensei, Kojima Yoshio #98.mp4
 │   ├── 2008-02-05_04 - [Lincoln] Sekkyou Sensei, Kojima Yoshio #98.mp4
 │   ├── 2008-02-10 - Eating foods that start with A with rice #891.mp4
 │   ├── 2008-02-19 - [Lincoln] Sekkyou Sensei, Black Mayonnaise #100.mkv
+│   ├── 2008-02-24 - Yamasaki Sneaky Thief Trial Part 1 #893.avi
+│   ├── 2008-03-02 - Yamasaki Sneaky Thief Trial Part 2 #894.mp4
 │   ├── 2008-03-30 - Kiki Tonkatsu Sauce #898.mp4
 │   ├── 2008-04-00 - [Yurusenai Hanashi] Yurusenai Hanashi 1.mp4
 │   ├── 2008-04-00 - [Yurusenai Hanashi] Yurusenai Hanashi 2.mp4
@@ -533,6 +534,8 @@ Salk's Gaki Stream Playlist (as of December 25 2021)
 │   ├── 2010-08-24 - [Lincoln] Impersonation Situation - Miyasako as Shibata Kyohei #206.mp4
 │   ├── 2010-08-29 - Sushizanmai Food Marathon 1 #1019.mp4
 │   ├── 2010-09-05 - Sushizanmai Food Marathon 2 #1020.mp4
+│   ├── 2010-10-10 - Trivia Drive Go Go Part 1 #1025.mp4
+│   ├── 2010-10-17 - Trivia Drive Go Go Part 2 #1026.mp4
 │   ├── 2010-10-24 - Murakami Class Ninja ft Girolamo #1027.mp4
 │   ├── 2010-10-31 - Beach Ghost Story - Hamada Is Watching #1028.mkv
 │   └── 2010-12-31 - No Laughing Spy.avi
@@ -541,6 +544,7 @@ Salk's Gaki Stream Playlist (as of December 25 2021)
 │   ├── 2011-01-09 - Spy Unseen Footage #1037.mp4
 │   ├── 2011-01-23 - 5th Yama-1 Grand Prix Part 1 #1039.mp4
 │   ├── 2011-01-30 -  5th Yama-1 Grand Prix Part 2 #1040.mp4
+│   ├── 2011-02-06 - Yasei Bakudan Kawashima Shichi Henge #1041.mp4
 │   ├── 2011-02-08 - [Lincoln] Lotion Stairs 1 #221.mp4
 │   ├── 2011-02-15 - [Lincoln] 1st Costume Bus Tour #222.mp4
 │   ├── 2011-02-27 - Kiki Apple Juice #1044.mp4
@@ -557,6 +561,8 @@ Salk's Gaki Stream Playlist (as of December 25 2021)
 │   ├── 2011-09-04 - Yakiniku Toraji Food Marathon Part 2 #1070.mp4
 │   ├── 2011-09-11 - Heipo's Camping Trip #1071.mp4
 │   ├── 2011-09-25 - Kiki Potato Chips #1073.mkv
+│   ├── 2011-10-09 - Dead Drunk Bar Part 1 #1075.mp4
+│   ├── 2011-10-16 - Dead Drunk Bar Part 2 #1076.mp4
 │   ├── 2011-10-23 - Hamada Quiz Show #1077.mkv
 │   ├── 2011-11-13 - Bare Handed Hell - No Chopstick Battle #1080.mp4
 │   ├── 2011-11-22 - [Lincoln] Lotion Stairs 2 #251.mp4
@@ -618,12 +624,14 @@ Salk's Gaki Stream Playlist (as of December 25 2021)
 │   ├── 2013-05-26 - Famicom Battle #1156.mkv
 │   ├── 2013-06-16 - Fujiwara's Baby Heipo Care Part 1 #1159.mkv
 │   ├── 2013-06-18 - [Lincoln] Thank You Lincoln #307.mp4
+│   ├── 2013-06-23- Fujiwara's Baby Heipo Care Part 2 #1160.mp4
 │   ├── 2013-07-07 - Kiki Fish Sausage #1162.mp4
 │   ├── 2013-08-11 - Matsumoto date with Matsuko at Tokyo Sky Tree #1166.mp4
 │   ├── 2013-09-16 - Negativity Prohibited! Heat Tour #1171.mkv
 │   ├── 2013-09-22_01 - Yamazaki's Urban Rap Battle! #1172.mp4
 │   ├── 2013-09-22_02 - Kiki Starbucks #1172.mp4
 │   ├── 2013-09-29 - Famicom Battle 2 #1173.mp4
+│   ├── 2013-11-03 - Neptune Horiuchi Ken Shichi Henge #1178.mp4
 │   ├── 2013-12-01 - Kik Chili Oil #1182.mkv
 │   ├── 2013-12-08 - Let's Play Nostalgic Arcade Games #1183.mp4
 │   ├── 2013-12-14 - Let's Play Nostalgic Arcade Games Extra Footage #1184.mp4
@@ -636,6 +644,8 @@ Salk's Gaki Stream Playlist (as of December 25 2021)
 │   ├── 2014-01-19 - I think that you like this #1188.mkv
 │   ├── 2014-02-02 - Cooking Gyoza Excerpt #1190.mp4
 │   ├── 2014-02-23 - Negativity Prohibited! Cold Tour #1193.mkv
+│   ├── 2014-03-02 - Liars Inn Part 1 #1194.mp4
+│   ├── 2014-03-09 - Liars Inn Part 2 #1195.mp4
 │   ├── 2014-03-16 - Tsukitei Hosei Long Interview Part 1 #1196.mp4
 │   ├── 2014-03-23 - Tsukitei Hosei Long Interview Part 2 #1197.mp4
 │   ├── 2014-04-13 - Goodbye Tsukitei Hosei Excerpt #1200.mp4
@@ -728,6 +738,7 @@ Salk's Gaki Stream Playlist (as of December 25 2021)
 │   ├── 2016-11-09 - [Wednesday Downtown] Complete.mp4
 │   ├── 2016-11-13 - Jungle Pocket Saito Shichi Henge #1330.mp4
 │   ├── 2016-11-20 - Ask the Best 5 in a Strange Town 1 #1331.mp4
+│   ├── 2016-11-27 - Ask the Best 5 in a Strange Town 2 #1332.mp4
 │   ├── 2016-11-30_01 - [Documental 1] 10 Brave Participants.mp4
 │   ├── 2016-11-30_02 - [Documental 1] First Dropout.mp4
 │   ├── 2016-11-30_03 - [Documental 1] More Dropouts.mp4
@@ -762,6 +773,7 @@ Salk's Gaki Stream Playlist (as of December 25 2021)
 │   ├── 2017-03-05 - I think that you like this 9 #1345.mp4
 │   ├── 2017-04-01 - [Matsumoto Ke] Matsumoto Tries Boxing excerpt.mp4
 │   ├── 2017-04-03 - Silent Library 7 #1352.mp4
+│   ├── 2017-04-09 - Akiyama Ryuuji Shichi Henge & Free Talk #1350.mp4
 │   ├── 2017-04-26 - [Wednesday Downtown] Booby-traps Battle Royale.mp4
 │   ├── 2017-04-26_01 - [Documental 2] The Beginning of a New Fight.mkv
 │   ├── 2017-04-26_02 - [Documental 2] A Fierce Battle.mkv
@@ -769,6 +781,7 @@ Salk's Gaki Stream Playlist (as of December 25 2021)
 │   ├── 2017-04-26_04 - [Documental 2] Time is Running Out.mkv
 │   ├── 2017-04-26_05 - [Documental 2] The Ultimate Victor.mkv
 │   ├── 2017-04-30 - Sudden Outburst of Laughter Tour #1353.mp4
+│   ├── 2017-05-07 - Ryuji 100% GP #1354.mp4
 │   ├── 2017-05-12 - [Downtown Now] Emoto.mp4
 │   ├── 2017-05-14 - IKKO's Men Calendar Part 1 Tanaka Excerpt #1355.mp4
 │   ├── 2017-05-17 - [Wednesday Downtown] Yaguchi Mari Sexy Beam.mkv
@@ -789,6 +802,7 @@ Salk's Gaki Stream Playlist (as of December 25 2021)
 │   ├── 2017-09-03 - Silent Library 8 #1371.mkv
 │   ├── 2017-10-18 - [Wednesday Downtown] Fake Golf Rules Theory.mp4
 │   ├── 2017-11-01 - [Wednesday Downtown] Top 100 Most Famous People in Japan.mp4
+│   ├── 2017-11-06 - Watanabe Naomi Shichi Henge #1359.mp4
 │   ├── 2017-11-26 - Batsu Game Restrospective #1382.mp4
 │   ├── 2017-11-30_01 - [Documental 4] The Unexpected Challengers.mp4
 │   ├── 2017-11-30_02 - [Documental 4] Consecutive Penalty Cards.mp4
@@ -885,6 +899,12 @@ Salk's Gaki Stream Playlist (as of December 25 2021)
 │   ├── 2018-11-23 - [Downtown Now] Matsumoto Trolling Young Comedians.mp4
 │   ├── 2018-11-26 - [Matsumoto Ke] - Matsumoto showing signs of aging excerpt.mp4
 │   ├── 2018-11-28 - [Wednesday Downtown] Everyones Theories.mp4
+│   ├── 2018-11-30_01 - [Documental 6] Unprecedented Challenger.mp4
+│   ├── 2018-11-30_02 - [Documental 6] Aun's Breath.mp4
+│   ├── 2018-11-30_03 - [Documental 6] Mouse in the Bag.mp4
+│   ├── 2018-11-30_04 - [Documental 6] Dead Heat.mp4
+│   ├── 2018-12-09 - Food Marathon Gaburi Chicken Part 1 #1434.mp4
+│   ├── 2018-12-16 - Food Marathon Gaburi Chicken Part 2 #1435.mp4
 │   ├── 2018-12-31_01 - No Laughing Treasure Hunters.mp4
 │   ├── 2018-12-31_02 - No Laughing Treasure Hunters.mp4
 │   ├── 2018-12-31_03 - No Laughing Treasure Hunters.mp4
@@ -925,6 +945,7 @@ Salk's Gaki Stream Playlist (as of December 25 2021)
 │   ├── 2019-04-00 - [Downtown Now] Downtown hang out with young duo, Kaminari, and talk about who you can tsukkomi.mp4
 │   ├── 2019-04-00 - [Downtown Now] Downtown play Janken.mp4
 │   ├── 2019-04-00 - [Downtown Now] You're already drunk clips.mp4
+│   ├── 2019-04-19 - Kamaitachi Yamauchi Shichi Henge #1451.mp4
 │   ├── 2019-04-19 - [Downtown Now] If Downtown Were Music Excerpt.mp4
 │   ├── 2019-04-20 - 1st Jiji-Nuki Game #1502.mp4
 │   ├── 2019-04-21 - Bluetooth Costume Talk excerpt #1452.mp4
@@ -945,9 +966,12 @@ Salk's Gaki Stream Playlist (as of December 25 2021)
 │   ├── 2019-06-30 - 4th Board Game Meet-Up Part 1 #1462.mp4
 │   ├── 2019-07-07 - 4th Board Game Meet-Up Part 2 #1463.mp4
 │   ├── 2019-07-14 - Music Video Shooting with a Drone #1464.mp4
+│   ├── 2019-09-15 - Shimofuri Myojo Seiya Shichi Henge #1472.mp4
 │   ├── 2019-09-22 - Kiki Mentsuyu #1473.ass
 │   ├── 2019-09-22 - Kiki Mentsuyu #1473.m4v
 │   ├── 2019-09-29 - 5th Let's Play World Tabletop Game #1474.mkv
+│   ├── 2019-10-06 - Bamiyan Food Marathon Part 1 #1475.mp4
+│   ├── 2019-10-13 - Bamiyan Food Marathon Part  2 #1476.mp4
 │   ├── 2019-10-20 - 7th Rendezvouz Game Part 1 #1477.mp4
 │   ├── 2019-10-27 - 7th Rendezvouz Game Part 2 #1478.mp4
 │   ├── 2019-12-31_01 - No Laughing Youth High School.mp4
@@ -984,24 +1008,44 @@ Salk's Gaki Stream Playlist (as of December 25 2021)
 │   ├── 2020-11-15 - Project Ho Ho Hoi #1532.m4v
 │   ├── 2020-11-29 - 3rd Jiji-Nuki Game #1534.mkv
 │   ├── 2020-12-06 - Jimmy's Fake Home Visit Show #1535.m4v
-│   └── 2020-12-31_00 - No Laughing Las Vegas Promo.m4v
-└── 2021
-    ├── 2021-01-02 - [Shinsainchou] Most Comfortable Things To Touch Contest.mp4
-    ├── 2021-01-17 - Silent Library 13 #1540.mp4
-    ├── 2021-02-24 - [Wednesday Downtown] Complete.m4v
-    ├── 2021-02-28 - 100 Yen Items STAR WARS Meetup #1546.m4v
-    ├── 2021-03-31 - [Wednesday Downtown] Complete.mp4
-    ├── 2021-04-11 - Tabletop Games Hamada Dokkiri 2 #1552.mp4
-    ├── 2021-04-17 - Yamasaki Produce 7 #1553.mp4
-    ├── 2021-06-06 - Cookie Woman Diver Class #1560.mp4
-    ├── 2021-06-13 - Cookie Woman Diver Class Part 2 #1561.mp4
-    ├── 2021-07-11 - 5th Jiji-Nuki Game #1565.mp4
-    ├── 2021-08-21 - Tanaker #1570.mp4
-    ├── 2021-11-10 - [Wednesday Downtown] Complete.mp4
-    ├── 2021-11-17 - [Wednesday Downtown] Complete.mp4
-    ├── 2021-11-24 - [Wednesday Downtown] Complete.mp4
-    ├── 2021-12-01 - [Wednesday Downtown] Complete.mp4
-    ├── 2021-12-05 - 8th Rendezvouz Game Part 1 #1583.mp4
-    └── 2021-12-12 - 8th Rendezvouz Game Part 2 #1584.mp4
+│   ├── 2020-12-30 - No Laughing Las Vegas Promo.m4v
+│   ├── 2020-12-31 - No Laughing Las Vegas Part 01.mp4
+│   ├── 2020-12-31 - No Laughing Las Vegas Part 02.mp4
+│   ├── 2020-12-31 - No Laughing Las Vegas Part 03.mp4
+│   ├── 2020-12-31 - No Laughing Las Vegas Part 04.mp4
+│   ├── 2020-12-31 - No Laughing Las Vegas Part 05.mp4
+│   ├── 2020-12-31 - No Laughing Las Vegas Part 06.mp4
+│   ├── 2020-12-31 - No Laughing Las Vegas Part 07.mp4
+│   ├── 2020-12-31 - No Laughing Las Vegas Part 08.mp4
+│   ├── 2020-12-31 - No Laughing Las Vegas Part 09.mp4
+│   └── 2020-12-31 - No Laughing Las Vegas Part 10.mp4
+├── 2021
+│   ├── 2021-01-02 - [Shinsainchou] Most Comfortable Things To Touch Contest.mp4
+│   ├── 2021-01-17 - Silent Library 13 #1540.mp4
+│   ├── 2021-02-24 - [Wednesday Downtown] Complete.m4v
+│   ├── 2021-02-28 - 100 Yen Items STAR WARS Meetup #1546.m4v
+│   ├── 2021-03-31 - [Wednesday Downtown] Complete.mp4
+│   ├── 2021-04-11 - Tabletop Games Hamada Dokkiri 2 #1552.mp4
+│   ├── 2021-04-17 - Yamasaki Produce 7 #1553.mp4
+│   ├── 2021-05-16 - Einstein Inada Shichi Henge #1557.mp4
+│   ├── 2021-06-06 - Cookie Woman Diver Class #1560.mp4
+│   ├── 2021-06-13 - Cookie Woman Diver Class Part 2 #1561.mp4
+│   ├── 2021-07-11 - 5th Jiji-Nuki Game #1565.mp4
+│   ├── 2021-08-21 - Tanaker #1570.mp4
+│   ├── 2021-08-29 - Magical Lovely Noda Shichi Henge #1571.mp4
+│   ├── 2021-10-20 - [Wednesday Downtown] Complete.mp4
+│   ├── 2021-11-10 - [Wednesday Downtown] Complete.mp4
+│   ├── 2021-11-17 - [Wednesday Downtown] Complete.mp4
+│   ├── 2021-11-24 - [Wednesday Downtown] Complete.mp4
+│   ├── 2021-12-01 - [Wednesday Downtown] Complete.mp4
+│   ├── 2021-12-05 - 8th Rendezvouz Game Part 1 #1583.mp4
+│   ├── 2021-12-12 - 8th Rendezvouz Game Part 2 #1584.mp4
+│   ├── 2021-12-19 - 6th Best 3 in a Strange Town #1585.mp4
+│   └── 2021-12-22 - [Wednesday Downtown] Complete.mp4
+└── 2022
+    ├── 2022-01-19 - [Wednesday Downtown] Hide for Money at Kuro-chan's Place.mp4
+    ├── 2022-01-30 - Kuuki Kaidan Mogura Suzuki Shichi Henge #1590.mp4
+    ├── 2022-03-13 - Challenge to Topple 10,000 Dominoes #1596.mp4
+    └── 2022-03-20 - Kiki Milk Tea #1597.mp4
 
-34 directories, 969 files
+35 directories, 1012 files
